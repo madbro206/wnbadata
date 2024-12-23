@@ -1,0 +1,38 @@
+game_play_number,type_text,text,period,clock,in_between,note
+9,JumpShot,Chance Gray missed Three Point Jumper.,1,9:23,FALSE,
+11,JumpShot,Cotie McMahon missed Three Point Jumper.,1,9:05,FALSE,
+18,JumpShot,Cotie McMahon missed Three Point Jumper.,1,8:12,TRUE,ohiostate
+20,JumpShot,Elena Bosgana missed Three Point Jumper.,1,7:50,FALSE,
+34,JumpShot,Jzaniya Harriel missed Three Point Jumper.,1,5:15,FALSE,
+48,JumpShot,Brooke Demetre missed Three Point Jumper.,1,3:17,FALSE,
+51,JumpShot,Tess Heal missed Three Point Jumper.,1,2:37,FALSE,
+60,JumpShot,Ava Watson missed Three Point Jumper.,1,1:12,FALSE,
+62,JumpShot,Madison Greene missed Three Point Jumper.,1,1:05,FALSE,
+64,JumpShot,Jzaniya Harriel missed Three Point Jumper.,1,0:46,FALSE,
+66,JumpShot,Madison Greene made Three Point Jumper. Assisted by Cotie McMahon.,1,0:14,FALSE,
+71,JumpShot,Chance Gray missed Three Point Jumper.,2,9:46,FALSE,
+73,JumpShot,Elena Bosgana missed Three Point Jumper.,2,9:29,FALSE,
+87,JumpShot,Courtney Ogden missed Three Point Jumper.,2,7:54,TRUE,stanford
+121,JumpShot,Jzaniya Harriel missed Three Point Jumper.,2,3:19,FALSE,
+133,JumpShot,Tess Heal made Three Point Jumper. Assisted by Chloe Clardy.,2,1:33,FALSE,
+161,JumpShot,Chance Gray missed Three Point Jumper.,3,7:42,FALSE,
+171,JumpShot,Taylor Thierry missed Three Point Jumper.,3,6:27,FALSE,
+179,JumpShot,Cotie McMahon missed Three Point Jumper.,3,6:02,TRUE,ohiostate
+185,JumpShot,Elena Bosgana missed Three Point Jumper.,3,5:38,FALSE,
+208,JumpShot,Ava Watson missed Three Point Jumper.,3,3:26,FALSE,
+210,JumpShot,Madison Greene missed Three Point Jumper.,3,3:11,FALSE,
+215,JumpShot,Taylor Thierry missed Three Point Jumper.,3,2:55,FALSE,
+217,JumpShot,Elena Bosgana missed Three Point Jumper.,3,2:48,FALSE,
+220,JumpShot,Ava Watson made Three Point Jumper. Assisted by Madison Greene.,3,2:30,FALSE,
+224,JumpShot,Ava Watson missed Three Point Jumper.,3,1:49,FALSE,
+232,JumpShot,Ava Watson made Three Point Jumper. Assisted by Ajae Petty.,3,1:16,FALSE,
+233,JumpShot,Chloe Clardy missed Three Point Jumper.,3,1:03,FALSE,
+236,JumpShot,Madison Greene missed Three Point Jumper.,3,0:38,FALSE,
+239,JumpShot,Ava Watson missed Three Point Jumper.,3,0:08,FALSE,
+248,JumpShot,Madison Greene made Three Point Jumper. Assisted by Cotie McMahon.,4,9:35,FALSE,
+252,JumpShot,Elena Bosgana missed Three Point Jumper.,4,8:34,FALSE,
+261,JumpShot,Brooke Demetre made Three Point Jumper. Assisted by Jzaniya Harriel.,4,6:34,TRUE?,stanford-maybe
+263,JumpShot,Tess Heal missed Three Point Jumper.,4,5:37,FALSE,
+276,JumpShot,Chloe Clardy missed Three Point Jumper.,4,4:28,FALSE,
+307,JumpShot,Ava Watson made Three Point Jumper. Assisted by Kennedy Cambridge.,4,1:01,TRUE,ohiostate
+312,JumpShot,Madison Greene made Three Point Jumper. Assisted by Kennedy Cambridge.,4,0:18,FALSE,
