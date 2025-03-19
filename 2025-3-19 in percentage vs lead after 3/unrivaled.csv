@@ -1,0 +1,45 @@
+game,visitor,home,home_winner,visitor_score,home_score,home_lead
+jan_17_owls_mist,Lunar Owls,Mist,0,67,73,6
+jan_17_vinyl_rose,Vinyl,Rose,0,67,60,-7
+jan_18_laces_phantom,Laces,Phantom,0,74,42,-32
+jan_18_rose_owls,Rose,Lunar Owls,1,62,68,6
+jan_20_phantom_vinyl,Phantom,Vinyl,1,59,73,14
+jan_20_mist_laces,Mist,Laces,1,41,52,11
+jan_24_mist_phantom,Mist,Phantom,1,57,62,5
+jan_24_vinyl_laces,Vinyl,Laces,1,60,71,11
+jan_25_rose_mist,Rose,Mist,0,60,58,-2
+jan_25_phantom_owls,Phantom,Lunar Owls,1,51,71,20
+jan_27_owls_vinyl,Lunar Owls,Vinyl,0,55,41,-14
+jan_27_laces_rose,Laces,Rose,0,60,50,-10
+jan_31_rose_phantom,Rose,Phantom,1,54,62,8
+jan_31_owls_laces,Lunar Owls,Laces,0,62,64,2
+feb_1_vinyl_mist,Vinyl,Mist,1,65,64,-1
+feb_1_laces_rose,Laces,Rose,1,59,71,12
+feb_3_phantom_mist,Phantom,Mist,1,53,53,0
+feb_3_vinyl_owls,Vinyl,Lunar Owls,1,57,73,16
+feb_7_owls_phantom,Lunar Owls,Phantom,0,83,68,-15
+feb_7_rose_mist,Rose,Mist,0,60,47,-13
+feb_8_mist_owls,Mist,Lunar Owls,1,73,65,-8
+feb_18_rose_vinyl,Rose,Vinyl,0,48,49,1
+feb_18_phantom_laces,Phantom,Laces,1,61,63,2
+feb_21_owls_rose,Lunar Owls,Rose,1,55,61,6
+feb_21_mist_vinyl,Mist,Vinyl,1,58,60,2
+feb_22_owls_laces,Laces,Lunar Owls,1,53,76,23
+feb_22_phantom_vinyl,Vinyl,Phantom,1,57,66,9
+feb_24_phantom_rose,Phantom,Rose,1,54,59,5
+feb_24_laces_mist,Laces,Mist,1,45,53,8
+feb_28_vinyl_laces,Vinyl,Laces,0,53,48,-5
+feb_28_mist_phantom,Mist,Phantom,0,77,57,-20
+mar_1_owls_vinyl,Lunar Owls,Vinyl,0,67,64,-3
+mar_1_mist_rose,Mist,Rose,0,59,55,-4
+mar_3_rose_laces,Rose,Laces,0,47,44,-3
+mar_3_phantom_owls,Phantom,Lunar Owls,1,61,80,19
+mar_7_phantom_laces,Laces,Phantom,0,60,54,-6
+mar_7_rose_owls,Rose,Lunar Owls,1,46,54,8
+mar_8_mist_laces,Mist,Laces,1,61,64,3
+mar_8_phantom_vinyl,Phantom,Vinyl,0,67,59,-8
+mar_10_owls_mist,Lunar Owls,Mist,0,81,54,-27
+mar_10_vinyl_rose,Vinyl,Rose,1,42,63,21
+mar_16_laces_rose,Laces,Rose,1,52,50,-2
+mar_16_vinyl_owls,Vinyl,Owls,0,52,62,10
+mar_17_vinyl_rose,Vinyl,Rose,1,49,51,2
