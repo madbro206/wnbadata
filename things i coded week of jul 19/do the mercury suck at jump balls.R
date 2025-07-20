@@ -52,7 +52,8 @@ mercury_jump_balls_with_winner <- merc_jb %>%
   )
 
 #join with player box score to get the team of the possession player
-full_jump_ball_info <- full_jump_ball_info %>%
+full_jump_ball_info <- mercury_jump_balls_with_winner %>%
+  left_join(wnba_player_box, by = c("possession_player" = "athlete_display_name", "game_id")) %>%
   mutate(
     mercury_win = case_when(
       is.na(possession_player) | is.na(team_name) ~ NA_character_,
