@@ -1,1 +1,1 @@
-The files in this repo correspond to videos that can be found on my TikTok page! https://www.tiktok.com/@wnbadata
+The files in this repo correspond to videos that can be found on my TikTok and Instagram pages! https://www.tiktok.com/@wnbadata https://www.instagram.com/wnbadata/
