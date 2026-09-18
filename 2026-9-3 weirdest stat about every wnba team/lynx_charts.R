@@ -120,7 +120,6 @@ p_collier <- ggplot(era, aes(x = era, y = mov, fill = era == "with collier")) +
   scale_fill_manual(values = c(`TRUE` = HI, `FALSE` = "#B4B2A9"), guide = "none") +
   scale_y_continuous(limits = c(0, NA), expand = expansion(mult = c(0, 0.28))) +
   labs(title = "minnesota point differential per game, before and after collier returned",
-       subtitle = "split at her first game on july 22",
        caption = CREDIT, x = NULL, y = NULL) +
   base_theme() +
   theme(panel.grid.major.x = element_blank(),
@@ -169,7 +168,7 @@ fives <- player_box |> filter(starter) |>
   group_by(team) |> summarise(fives = n_distinct(five), .groups = "drop")
 p_fives <- lolli(fives, fives, "%d",
   "distinct starting fives used, by team",
-  "toronto has used twenty two", low_first = TRUE)
+  "", low_first = TRUE)
 
 # 6. the miles setup: while collier was out, the number two pick led all rookies
 # in scoring by a wide margin. from hhs box scores, 2026 regular season, minimum
@@ -223,6 +222,16 @@ p_collier_mins <- ggplot(collier_games, aes(x = g, y = minutes)) +
 # 8. everything else, before and after she came back. per game team numbers from
 # hhs box scores, split at her first game on july 22 (27 games before, 13 after).
 # the point: almost nothing moved. verified 9/17.
+#
+# NOTE ON THE SPLIT: this is BEFORE vs AFTER she came back, not games with vs without
+# her. she missed all 27 "before" games, but sat out one of the 13 "after" games (a
+# 94-84 win over washington on aug 21). in the 12 games she actually played the lynx
+# were 9-3 at +6.0, against 10-3 at +6.3 for all 13, so the stricter split makes the
+# dip slightly bigger. the table columns say without/with but mean before/after.
+#
+# cross checked against wehoop 9/18: every row agrees with her hoop stats to within
+# 0.1 (assists, 3pa, 3pt% and efg% each differ by 0.1). turnovers are player
+# turnovers, espn's total including team turnovers runs higher.
 ba_counts <- data.frame(
   stat   = c("points","points allowed","margin","assists","rebounds",
              "off rebounds","turnovers","steals","blocks","3pt attempts","ft attempts"),
