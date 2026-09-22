@@ -26,4 +26,4 @@ and the graphics.
 
 Mostly [wehoop](https://wehoop.sportsdataverse.org/) for play by play and box scores,
 plus [Her Hoop Stats](https://herhoopstats.com/) and Sports Reference depending on the
-question. Where a number came from somewhere else, the script hopefully says so.
+question. When any numbers came from somewhere else, hopefully the script says so :)
