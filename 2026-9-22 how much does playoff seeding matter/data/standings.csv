@@ -1,0 +1,366 @@
+"season","team","conf","W","L","wpct","playoff"
+1997,"Houston Comets","e",18,10,0.642857142857143,TRUE
+1997,"New York Liberty","e",17,11,0.607142857142857,TRUE
+1997,"Charlotte Sting","e",15,13,0.535714285714286,TRUE
+1997,"Cleveland Rockers","e",15,13,0.535714285714286,FALSE
+1997,"Phoenix Mercury","w",16,12,0.571428571428571,TRUE
+1997,"Los Angeles Sparks","w",14,14,0.5,FALSE
+1997,"Sacramento Monarchs","w",10,18,0.357142857142857,FALSE
+1997,"Utah Starzz","w",7,21,0.25,FALSE
+1998,"Cleveland Rockers","e",20,10,0.666666666666667,TRUE
+1998,"Charlotte Sting","e",18,12,0.6,TRUE
+1998,"New York Liberty","e",18,12,0.6,FALSE
+1998,"Detroit Shock","e",17,13,0.566666666666667,FALSE
+1998,"Washington Mystics","e",3,27,0.1,FALSE
+1998,"Houston Comets","w",27,3,0.9,TRUE
+1998,"Phoenix Mercury","w",19,11,0.633333333333333,TRUE
+1998,"Los Angeles Sparks","w",12,18,0.4,FALSE
+1998,"Sacramento Monarchs","w",8,22,0.266666666666667,FALSE
+1998,"Utah Starzz","w",8,22,0.266666666666667,FALSE
+1999,"New York Liberty","e",18,14,0.5625,TRUE
+1999,"Charlotte Sting","e",15,17,0.46875,TRUE
+1999,"Detroit Shock","e",15,17,0.46875,TRUE
+1999,"Orlando Miracle","e",15,17,0.46875,FALSE
+1999,"Washington Mystics","e",12,20,0.375,FALSE
+1999,"Cleveland Rockers","e",7,25,0.21875,FALSE
+1999,"Houston Comets","w",26,6,0.8125,TRUE
+1999,"Los Angeles Sparks","w",20,12,0.625,TRUE
+1999,"Sacramento Monarchs","w",19,13,0.59375,TRUE
+1999,"Minnesota Lynx","w",15,17,0.46875,FALSE
+1999,"Phoenix Mercury","w",15,17,0.46875,FALSE
+1999,"Utah Starzz","w",15,17,0.46875,FALSE
+2000,"New York Liberty","e",20,12,0.625,TRUE
+2000,"Cleveland Rockers","e",17,15,0.53125,TRUE
+2000,"Orlando Miracle","e",16,16,0.5,TRUE
+2000,"Washington Mystics","e",14,18,0.4375,TRUE
+2000,"Detroit Shock","e",14,18,0.4375,FALSE
+2000,"Miami Sol","e",13,19,0.40625,FALSE
+2000,"Indiana Fever","e",9,23,0.28125,FALSE
+2000,"Charlotte Sting","e",8,24,0.25,FALSE
+2000,"Los Angeles Sparks","w",28,4,0.875,TRUE
+2000,"Houston Comets","w",27,5,0.84375,TRUE
+2000,"Sacramento Monarchs","w",21,11,0.65625,TRUE
+2000,"Phoenix Mercury","w",20,12,0.625,TRUE
+2000,"Utah Starzz","w",18,14,0.5625,FALSE
+2000,"Minnesota Lynx","w",15,17,0.46875,FALSE
+2000,"Portland Fire","w",10,22,0.3125,FALSE
+2000,"Seattle Storm","w",6,26,0.1875,FALSE
+2001,"Cleveland Rockers","e",22,10,0.6875,TRUE
+2001,"New York Liberty","e",21,11,0.65625,TRUE
+2001,"Miami Sol","e",20,12,0.625,TRUE
+2001,"Charlotte Sting","e",18,14,0.5625,TRUE
+2001,"Orlando Miracle","e",13,19,0.40625,FALSE
+2001,"Detroit Shock","e",10,22,0.3125,FALSE
+2001,"Indiana Fever","e",10,22,0.3125,FALSE
+2001,"Washington Mystics","e",10,22,0.3125,FALSE
+2001,"Los Angeles Sparks","w",28,4,0.875,TRUE
+2001,"Sacramento Monarchs","w",20,12,0.625,TRUE
+2001,"Houston Comets","w",19,13,0.59375,TRUE
+2001,"Utah Starzz","w",19,13,0.59375,TRUE
+2001,"Phoenix Mercury","w",13,19,0.40625,FALSE
+2001,"Minnesota Lynx","w",12,20,0.375,FALSE
+2001,"Portland Fire","w",11,21,0.34375,FALSE
+2001,"Seattle Storm","w",10,22,0.3125,FALSE
+2002,"Charlotte Sting","e",18,14,0.5625,TRUE
+2002,"New York Liberty","e",18,14,0.5625,TRUE
+2002,"Washington Mystics","e",17,15,0.53125,TRUE
+2002,"Indiana Fever","e",16,16,0.5,TRUE
+2002,"Orlando Miracle","e",16,16,0.5,FALSE
+2002,"Miami Sol","e",15,17,0.46875,FALSE
+2002,"Cleveland Rockers","e",10,22,0.3125,FALSE
+2002,"Detroit Shock","e",9,23,0.28125,FALSE
+2002,"Los Angeles Sparks","w",25,7,0.78125,TRUE
+2002,"Houston Comets","w",24,8,0.75,TRUE
+2002,"Utah Starzz","w",20,12,0.625,TRUE
+2002,"Seattle Storm","w",17,15,0.53125,TRUE
+2002,"Portland Fire","w",16,16,0.5,FALSE
+2002,"Sacramento Monarchs","w",14,18,0.4375,FALSE
+2002,"Phoenix Mercury","w",11,21,0.34375,FALSE
+2002,"Minnesota Lynx","w",10,22,0.3125,FALSE
+2003,"Detroit Shock","e",25,9,0.735294117647059,TRUE
+2003,"Charlotte Sting","e",18,16,0.529411764705882,TRUE
+2003,"Connecticut Sun","e",18,16,0.529411764705882,TRUE
+2003,"Cleveland Rockers","e",17,17,0.5,TRUE
+2003,"Indiana Fever","e",16,18,0.470588235294118,FALSE
+2003,"New York Liberty","e",16,18,0.470588235294118,FALSE
+2003,"Washington Mystics","e",9,25,0.264705882352941,FALSE
+2003,"Los Angeles Sparks","w",24,10,0.705882352941177,TRUE
+2003,"Houston Comets","w",20,14,0.588235294117647,TRUE
+2003,"Sacramento Monarchs","w",19,15,0.558823529411765,TRUE
+2003,"Minnesota Lynx","w",18,16,0.529411764705882,TRUE
+2003,"Seattle Storm","w",18,16,0.529411764705882,FALSE
+2003,"San Antonio Silver Stars","w",12,22,0.352941176470588,FALSE
+2003,"Phoenix Mercury","w",8,26,0.235294117647059,FALSE
+2004,"Connecticut Sun","e",18,16,0.529411764705882,TRUE
+2004,"New York Liberty","e",18,16,0.529411764705882,TRUE
+2004,"Detroit Shock","e",17,17,0.5,TRUE
+2004,"Washington Mystics","e",17,17,0.5,TRUE
+2004,"Charlotte Sting","e",16,18,0.470588235294118,FALSE
+2004,"Indiana Fever","e",15,19,0.441176470588235,FALSE
+2004,"Los Angeles Sparks","w",25,9,0.735294117647059,TRUE
+2004,"Seattle Storm","w",20,14,0.588235294117647,TRUE
+2004,"Minnesota Lynx","w",18,16,0.529411764705882,TRUE
+2004,"Sacramento Monarchs","w",18,16,0.529411764705882,TRUE
+2004,"Phoenix Mercury","w",17,17,0.5,FALSE
+2004,"Houston Comets","w",13,21,0.382352941176471,FALSE
+2004,"San Antonio Silver Stars","w",9,25,0.264705882352941,FALSE
+2005,"Connecticut Sun","e",26,8,0.764705882352941,TRUE
+2005,"Indiana Fever","e",21,13,0.61764705882353,TRUE
+2005,"New York Liberty","e",18,16,0.529411764705882,TRUE
+2005,"Detroit Shock","e",16,18,0.470588235294118,TRUE
+2005,"Washington Mystics","e",16,18,0.470588235294118,FALSE
+2005,"Charlotte Sting","e",6,28,0.176470588235294,FALSE
+2005,"Sacramento Monarchs","w",25,9,0.735294117647059,TRUE
+2005,"Seattle Storm","w",20,14,0.588235294117647,TRUE
+2005,"Houston Comets","w",19,15,0.558823529411765,TRUE
+2005,"Los Angeles Sparks","w",17,17,0.5,TRUE
+2005,"Phoenix Mercury","w",16,18,0.470588235294118,FALSE
+2005,"Minnesota Lynx","w",14,20,0.411764705882353,FALSE
+2005,"San Antonio Silver Stars","w",7,27,0.205882352941176,FALSE
+2006,"Connecticut Sun","e",26,8,0.764705882352941,TRUE
+2006,"Detroit Shock","e",23,11,0.676470588235294,TRUE
+2006,"Indiana Fever","e",21,13,0.61764705882353,TRUE
+2006,"Washington Mystics","e",18,16,0.529411764705882,TRUE
+2006,"Charlotte Sting","e",11,23,0.323529411764706,FALSE
+2006,"New York Liberty","e",11,23,0.323529411764706,FALSE
+2006,"Chicago Sky","e",5,29,0.147058823529412,FALSE
+2006,"Los Angeles Sparks","w",25,9,0.735294117647059,TRUE
+2006,"Sacramento Monarchs","w",21,13,0.61764705882353,TRUE
+2006,"Houston Comets","w",18,16,0.529411764705882,TRUE
+2006,"Seattle Storm","w",18,16,0.529411764705882,TRUE
+2006,"Phoenix Mercury","w",18,16,0.529411764705882,FALSE
+2006,"San Antonio Silver Stars","w",13,21,0.382352941176471,FALSE
+2006,"Minnesota Lynx","w",10,24,0.294117647058824,FALSE
+2007,"Detroit Shock","e",24,10,0.705882352941177,TRUE
+2007,"Indiana Fever","e",21,13,0.61764705882353,TRUE
+2007,"Connecticut Sun","e",18,16,0.529411764705882,TRUE
+2007,"New York Liberty","e",16,18,0.470588235294118,TRUE
+2007,"Washington Mystics","e",16,18,0.470588235294118,FALSE
+2007,"Chicago Sky","e",14,20,0.411764705882353,FALSE
+2007,"Phoenix Mercury","w",23,11,0.676470588235294,TRUE
+2007,"San Antonio Silver Stars","w",20,14,0.588235294117647,TRUE
+2007,"Sacramento Monarchs","w",19,15,0.558823529411765,TRUE
+2007,"Seattle Storm","w",17,17,0.5,TRUE
+2007,"Houston Comets","w",13,21,0.382352941176471,FALSE
+2007,"Los Angeles Sparks","w",10,24,0.294117647058824,FALSE
+2007,"Minnesota Lynx","w",10,24,0.294117647058824,FALSE
+2008,"Detroit Shock","e",22,12,0.647058823529412,TRUE
+2008,"Connecticut Sun","e",21,13,0.61764705882353,TRUE
+2008,"New York Liberty","e",19,15,0.558823529411765,TRUE
+2008,"Indiana Fever","e",17,17,0.5,TRUE
+2008,"Chicago Sky","e",12,22,0.352941176470588,FALSE
+2008,"Washington Mystics","e",10,24,0.294117647058824,FALSE
+2008,"Atlanta Dream","e",4,30,0.117647058823529,FALSE
+2008,"San Antonio Silver Stars","w",24,10,0.705882352941177,TRUE
+2008,"Seattle Storm","w",22,12,0.647058823529412,TRUE
+2008,"Los Angeles Sparks","w",20,14,0.588235294117647,TRUE
+2008,"Sacramento Monarchs","w",18,16,0.529411764705882,TRUE
+2008,"Houston Comets","w",17,17,0.5,FALSE
+2008,"Minnesota Lynx","w",16,18,0.470588235294118,FALSE
+2008,"Phoenix Mercury","w",16,18,0.470588235294118,FALSE
+2009,"Indiana Fever","e",22,12,0.647058823529412,TRUE
+2009,"Atlanta Dream","e",18,16,0.529411764705882,TRUE
+2009,"Detroit Shock","e",18,16,0.529411764705882,TRUE
+2009,"Washington Mystics","e",16,18,0.470588235294118,TRUE
+2009,"Chicago Sky","e",16,18,0.470588235294118,FALSE
+2009,"Connecticut Sun","e",16,18,0.470588235294118,FALSE
+2009,"New York Liberty","e",13,21,0.382352941176471,FALSE
+2009,"Phoenix Mercury","w",23,11,0.676470588235294,TRUE
+2009,"Seattle Storm","w",20,14,0.588235294117647,TRUE
+2009,"Los Angeles Sparks","w",18,16,0.529411764705882,TRUE
+2009,"San Antonio Silver Stars","w",15,19,0.441176470588235,TRUE
+2009,"Minnesota Lynx","w",14,20,0.411764705882353,FALSE
+2009,"Sacramento Monarchs","w",12,22,0.352941176470588,FALSE
+2010,"New York Liberty","e",22,12,0.647058823529412,TRUE
+2010,"Washington Mystics","e",22,12,0.647058823529412,TRUE
+2010,"Indiana Fever","e",21,13,0.61764705882353,TRUE
+2010,"Atlanta Dream","e",19,15,0.558823529411765,TRUE
+2010,"Connecticut Sun","e",17,17,0.5,FALSE
+2010,"Chicago Sky","e",14,20,0.411764705882353,FALSE
+2010,"Seattle Storm","w",28,6,0.823529411764706,TRUE
+2010,"Phoenix Mercury","w",15,19,0.441176470588235,TRUE
+2010,"San Antonio Silver Stars","w",14,20,0.411764705882353,TRUE
+2010,"Los Angeles Sparks","w",13,21,0.382352941176471,TRUE
+2010,"Minnesota Lynx","w",13,21,0.382352941176471,FALSE
+2010,"Tulsa Shock","w",6,28,0.176470588235294,FALSE
+2011,"Connecticut Sun","e",21,13,0.61764705882353,TRUE
+2011,"Indiana Fever","e",21,13,0.61764705882353,TRUE
+2011,"Atlanta Dream","e",20,14,0.588235294117647,TRUE
+2011,"New York Liberty","e",19,15,0.558823529411765,TRUE
+2011,"Chicago Sky","e",14,20,0.411764705882353,FALSE
+2011,"Washington Mystics","e",6,28,0.176470588235294,FALSE
+2011,"Minnesota Lynx","w",27,7,0.794117647058823,TRUE
+2011,"Seattle Storm","w",21,13,0.61764705882353,TRUE
+2011,"Phoenix Mercury","w",19,15,0.558823529411765,TRUE
+2011,"San Antonio Silver Stars","w",18,16,0.529411764705882,TRUE
+2011,"Los Angeles Sparks","w",15,19,0.441176470588235,FALSE
+2011,"Tulsa Shock","w",3,31,0.0882352941176471,FALSE
+2012,"Connecticut Sun","e",25,9,0.735294117647059,TRUE
+2012,"Indiana Fever","e",22,12,0.647058823529412,TRUE
+2012,"Atlanta Dream","e",19,15,0.558823529411765,TRUE
+2012,"New York Liberty","e",15,19,0.441176470588235,TRUE
+2012,"Chicago Sky","e",14,20,0.411764705882353,FALSE
+2012,"Washington Mystics","e",5,29,0.147058823529412,FALSE
+2012,"Minnesota Lynx","w",27,7,0.794117647058823,TRUE
+2012,"Los Angeles Sparks","w",24,10,0.705882352941177,TRUE
+2012,"San Antonio Silver Stars","w",21,13,0.61764705882353,TRUE
+2012,"Seattle Storm","w",16,18,0.470588235294118,TRUE
+2012,"Tulsa Shock","w",9,25,0.264705882352941,FALSE
+2012,"Phoenix Mercury","w",7,27,0.205882352941176,FALSE
+2013,"Chicago Sky","e",24,10,0.705882352941177,TRUE
+2013,"Atlanta Dream","e",17,17,0.5,TRUE
+2013,"Washington Mystics","e",17,17,0.5,TRUE
+2013,"Indiana Fever","e",16,18,0.470588235294118,TRUE
+2013,"New York Liberty","e",11,23,0.323529411764706,FALSE
+2013,"Connecticut Sun","e",10,24,0.294117647058824,FALSE
+2013,"Minnesota Lynx","w",26,8,0.764705882352941,TRUE
+2013,"Los Angeles Sparks","w",24,10,0.705882352941177,TRUE
+2013,"Phoenix Mercury","w",19,15,0.558823529411765,TRUE
+2013,"Seattle Storm","w",17,17,0.5,TRUE
+2013,"San Antonio Silver Stars","w",12,22,0.352941176470588,FALSE
+2013,"Tulsa Shock","w",11,23,0.323529411764706,FALSE
+2014,"Atlanta Dream","e",19,15,0.558823529411765,TRUE
+2014,"Indiana Fever","e",16,18,0.470588235294118,TRUE
+2014,"Washington Mystics","e",16,18,0.470588235294118,TRUE
+2014,"Chicago Sky","e",15,19,0.441176470588235,TRUE
+2014,"New York Liberty","e",15,19,0.441176470588235,FALSE
+2014,"Connecticut Sun","e",13,21,0.382352941176471,FALSE
+2014,"Phoenix Mercury","w",29,5,0.852941176470588,TRUE
+2014,"Minnesota Lynx","w",25,9,0.735294117647059,TRUE
+2014,"Los Angeles Sparks","w",16,18,0.470588235294118,TRUE
+2014,"San Antonio Stars","w",16,18,0.470588235294118,TRUE
+2014,"Seattle Storm","w",12,22,0.352941176470588,FALSE
+2014,"Tulsa Shock","w",12,22,0.352941176470588,FALSE
+2015,"New York Liberty","e",23,11,0.676470588235294,TRUE
+2015,"Chicago Sky","e",21,13,0.61764705882353,TRUE
+2015,"Indiana Fever","e",20,14,0.588235294117647,TRUE
+2015,"Washington Mystics","e",18,16,0.529411764705882,TRUE
+2015,"Atlanta Dream","e",15,19,0.441176470588235,FALSE
+2015,"Connecticut Sun","e",15,19,0.441176470588235,FALSE
+2015,"Minnesota Lynx","w",22,12,0.647058823529412,TRUE
+2015,"Phoenix Mercury","w",20,14,0.588235294117647,TRUE
+2015,"Tulsa Shock","w",18,16,0.529411764705882,TRUE
+2015,"Los Angeles Sparks","w",14,20,0.411764705882353,TRUE
+2015,"Seattle Storm","w",10,24,0.294117647058824,FALSE
+2015,"San Antonio Stars","w",8,26,0.235294117647059,FALSE
+2016,"New York Liberty","e",21,13,0.61764705882353,TRUE
+2016,"Chicago Sky","e",18,16,0.529411764705882,TRUE
+2016,"Atlanta Dream","e",17,17,0.5,TRUE
+2016,"Indiana Fever","e",17,17,0.5,TRUE
+2016,"Connecticut Sun","e",14,20,0.411764705882353,FALSE
+2016,"Washington Mystics","e",13,21,0.382352941176471,FALSE
+2016,"Minnesota Lynx","w",28,6,0.823529411764706,TRUE
+2016,"Los Angeles Sparks","w",26,8,0.764705882352941,TRUE
+2016,"Phoenix Mercury","w",16,18,0.470588235294118,TRUE
+2016,"Seattle Storm","w",16,18,0.470588235294118,TRUE
+2016,"Dallas Wings","w",11,23,0.323529411764706,FALSE
+2016,"San Antonio Stars","w",7,27,0.205882352941176,FALSE
+2017,"New York Liberty","e",22,12,0.647058823529412,TRUE
+2017,"Connecticut Sun","e",21,13,0.61764705882353,TRUE
+2017,"Washington Mystics","e",18,16,0.529411764705882,TRUE
+2017,"Atlanta Dream","e",12,22,0.352941176470588,FALSE
+2017,"Chicago Sky","e",12,22,0.352941176470588,FALSE
+2017,"Indiana Fever","e",9,25,0.264705882352941,FALSE
+2017,"Minnesota Lynx","w",27,7,0.794117647058823,TRUE
+2017,"Los Angeles Sparks","w",26,8,0.764705882352941,TRUE
+2017,"Phoenix Mercury","w",18,16,0.529411764705882,TRUE
+2017,"Dallas Wings","w",16,18,0.470588235294118,TRUE
+2017,"Seattle Storm","w",15,19,0.441176470588235,TRUE
+2017,"San Antonio Stars","w",8,26,0.235294117647059,FALSE
+2018,"Atlanta Dream","e",23,11,0.676470588235294,TRUE
+2018,"Washington Mystics","e",22,12,0.647058823529412,TRUE
+2018,"Connecticut Sun","e",21,13,0.61764705882353,TRUE
+2018,"Chicago Sky","e",13,21,0.382352941176471,FALSE
+2018,"New York Liberty","e",7,27,0.205882352941176,FALSE
+2018,"Indiana Fever","e",6,28,0.176470588235294,FALSE
+2018,"Seattle Storm","w",26,8,0.764705882352941,TRUE
+2018,"Phoenix Mercury","w",20,14,0.588235294117647,TRUE
+2018,"Los Angeles Sparks","w",19,15,0.558823529411765,TRUE
+2018,"Minnesota Lynx","w",18,16,0.529411764705882,TRUE
+2018,"Dallas Wings","w",15,19,0.441176470588235,TRUE
+2018,"Las Vegas Aces","w",14,20,0.411764705882353,FALSE
+2019,"Washington Mystics","e",26,8,0.764705882352941,TRUE
+2019,"Connecticut Sun","e",23,11,0.676470588235294,TRUE
+2019,"Chicago Sky","e",20,14,0.588235294117647,TRUE
+2019,"Indiana Fever","e",13,21,0.382352941176471,FALSE
+2019,"New York Liberty","e",10,24,0.294117647058824,FALSE
+2019,"Atlanta Dream","e",8,26,0.235294117647059,FALSE
+2019,"Los Angeles Sparks","w",22,12,0.647058823529412,TRUE
+2019,"Las Vegas Aces","w",21,13,0.61764705882353,TRUE
+2019,"Minnesota Lynx","w",18,16,0.529411764705882,TRUE
+2019,"Seattle Storm","w",18,16,0.529411764705882,TRUE
+2019,"Phoenix Mercury","w",15,19,0.441176470588235,TRUE
+2019,"Dallas Wings","w",10,24,0.294117647058824,FALSE
+2020,"Chicago Sky","e",12,10,0.545454545454545,TRUE
+2020,"Connecticut Sun","e",10,12,0.454545454545455,TRUE
+2020,"Washington Mystics","e",9,13,0.409090909090909,TRUE
+2020,"Atlanta Dream","e",7,15,0.318181818181818,FALSE
+2020,"Indiana Fever","e",6,16,0.272727272727273,FALSE
+2020,"New York Liberty","e",2,20,0.0909090909090909,FALSE
+2020,"Las Vegas Aces","w",18,4,0.818181818181818,TRUE
+2020,"Seattle Storm","w",18,4,0.818181818181818,TRUE
+2020,"Los Angeles Sparks","w",15,7,0.681818181818182,TRUE
+2020,"Minnesota Lynx","w",14,8,0.636363636363636,TRUE
+2020,"Phoenix Mercury","w",13,9,0.590909090909091,TRUE
+2020,"Dallas Wings","w",8,14,0.363636363636364,FALSE
+2021,"Connecticut Sun","e",26,6,0.8125,TRUE
+2021,"Chicago Sky","e",16,16,0.5,TRUE
+2021,"New York Liberty","e",12,20,0.375,TRUE
+2021,"Washington Mystics","e",12,20,0.375,FALSE
+2021,"Atlanta Dream","e",8,24,0.25,FALSE
+2021,"Indiana Fever","e",6,26,0.1875,FALSE
+2021,"Las Vegas Aces","w",24,8,0.75,TRUE
+2021,"Minnesota Lynx","w",22,10,0.6875,TRUE
+2021,"Seattle Storm","w",21,11,0.65625,TRUE
+2021,"Phoenix Mercury","w",19,13,0.59375,TRUE
+2021,"Dallas Wings","w",14,18,0.4375,TRUE
+2021,"Los Angeles Sparks","w",12,20,0.375,FALSE
+2022,"Chicago Sky","e",26,10,0.722222222222222,TRUE
+2022,"Connecticut Sun","e",25,11,0.694444444444444,TRUE
+2022,"Washington Mystics","e",22,14,0.611111111111111,TRUE
+2022,"New York Liberty","e",16,20,0.444444444444444,TRUE
+2022,"Atlanta Dream","e",14,22,0.388888888888889,FALSE
+2022,"Indiana Fever","e",5,31,0.138888888888889,FALSE
+2022,"Las Vegas Aces","w",26,10,0.722222222222222,TRUE
+2022,"Seattle Storm","w",22,14,0.611111111111111,TRUE
+2022,"Dallas Wings","w",18,18,0.5,TRUE
+2022,"Phoenix Mercury","w",15,21,0.416666666666667,TRUE
+2022,"Minnesota Lynx","w",14,22,0.388888888888889,FALSE
+2022,"Los Angeles Sparks","w",13,23,0.361111111111111,FALSE
+2023,"New York Liberty","e",32,8,0.8,TRUE
+2023,"Connecticut Sun","e",27,13,0.675,TRUE
+2023,"Atlanta Dream","e",19,21,0.475,TRUE
+2023,"Washington Mystics","e",19,21,0.475,TRUE
+2023,"Chicago Sky","e",18,22,0.45,TRUE
+2023,"Indiana Fever","e",13,27,0.325,FALSE
+2023,"Las Vegas Aces","w",34,6,0.85,TRUE
+2023,"Dallas Wings","w",22,18,0.55,TRUE
+2023,"Minnesota Lynx","w",19,21,0.475,TRUE
+2023,"Los Angeles Sparks","w",17,23,0.425,FALSE
+2023,"Seattle Storm","w",11,29,0.275,FALSE
+2023,"Phoenix Mercury","w",9,31,0.225,FALSE
+2024,"New York Liberty","e",32,8,0.8,TRUE
+2024,"Connecticut Sun","e",28,12,0.7,TRUE
+2024,"Indiana Fever","e",20,20,0.5,TRUE
+2024,"Atlanta Dream","e",15,25,0.375,TRUE
+2024,"Washington Mystics","e",14,26,0.35,FALSE
+2024,"Chicago Sky","e",13,27,0.325,FALSE
+2024,"Minnesota Lynx","w",30,10,0.75,TRUE
+2024,"Las Vegas Aces","w",27,13,0.675,TRUE
+2024,"Seattle Storm","w",25,15,0.625,TRUE
+2024,"Phoenix Mercury","w",19,21,0.475,TRUE
+2024,"Dallas Wings","w",9,31,0.225,FALSE
+2024,"Los Angeles Sparks","w",8,32,0.2,FALSE
+2025,"Atlanta Dream","e",30,14,0.681818181818182,TRUE
+2025,"New York Liberty","e",27,17,0.613636363636364,TRUE
+2025,"Indiana Fever","e",24,20,0.545454545454545,TRUE
+2025,"Washington Mystics","e",16,28,0.363636363636364,FALSE
+2025,"Connecticut Sun","e",11,33,0.25,FALSE
+2025,"Chicago Sky","e",10,34,0.227272727272727,FALSE
+2025,"Minnesota Lynx","w",34,10,0.772727272727273,TRUE
+2025,"Las Vegas Aces","w",30,14,0.681818181818182,TRUE
+2025,"Phoenix Mercury","w",27,17,0.613636363636364,TRUE
+2025,"Golden State Valkyries","w",23,21,0.522727272727273,TRUE
+2025,"Seattle Storm","w",23,21,0.522727272727273,TRUE
+2025,"Los Angeles Sparks","w",21,23,0.477272727272727,FALSE
+2025,"Dallas Wings","w",10,34,0.227272727272727,FALSE

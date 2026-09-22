@@ -1,0 +1,448 @@
+"season","series_idx","round","fmt","game","away","away_pts","home","home_pts","higher","home_is_higher","home_won"
+1997,1,"Finals","single game",1,"New York Liberty",51,"Houston Comets",65,"Houston Comets",TRUE,TRUE
+1997,2,"Semifinals","single game",1,"Charlotte Sting",54,"Houston Comets",70,"Houston Comets",TRUE,TRUE
+1997,3,"Semifinals","single game",1,"New York Liberty",59,"Phoenix Mercury",41,"New York Liberty",FALSE,FALSE
+1998,1,"Finals","bo3 1-2 (98-09)",1,"Houston Comets",51,"Phoenix Mercury",54,"Houston Comets",FALSE,TRUE
+1998,1,"Finals","bo3 1-2 (98-09)",2,"Phoenix Mercury",69,"Houston Comets",74,"Houston Comets",TRUE,TRUE
+1998,1,"Finals","bo3 1-2 (98-09)",3,"Phoenix Mercury",71,"Houston Comets",80,"Houston Comets",TRUE,TRUE
+1998,2,"Semifinals","bo3 1-2 (98-09)",1,"Houston Comets",85,"Charlotte Sting",71,"Houston Comets",FALSE,FALSE
+1998,2,"Semifinals","bo3 1-2 (98-09)",2,"Charlotte Sting",61,"Houston Comets",77,"Houston Comets",TRUE,TRUE
+1998,3,"Semifinals","bo3 1-2 (98-09)",1,"Cleveland Rockers",68,"Phoenix Mercury",78,"Cleveland Rockers",FALSE,TRUE
+1998,3,"Semifinals","bo3 1-2 (98-09)",2,"Phoenix Mercury",66,"Cleveland Rockers",67,"Cleveland Rockers",TRUE,TRUE
+1998,3,"Semifinals","bo3 1-2 (98-09)",3,"Phoenix Mercury",71,"Cleveland Rockers",60,"Cleveland Rockers",TRUE,FALSE
+1999,2,"Eastern Conference Finals","bo3 1-2 (98-09)",1,"New York Liberty",67,"Charlotte Sting",78,"New York Liberty",FALSE,TRUE
+1999,2,"Eastern Conference Finals","bo3 1-2 (98-09)",2,"Charlotte Sting",70,"New York Liberty",74,"New York Liberty",TRUE,TRUE
+1999,2,"Eastern Conference Finals","bo3 1-2 (98-09)",3,"Charlotte Sting",54,"New York Liberty",69,"New York Liberty",TRUE,TRUE
+1999,3,"Western Conference Finals","bo3 1-2 (98-09)",1,"Houston Comets",60,"Los Angeles Sparks",75,"Houston Comets",FALSE,TRUE
+1999,3,"Western Conference Finals","bo3 1-2 (98-09)",2,"Los Angeles Sparks",55,"Houston Comets",83,"Houston Comets",TRUE,TRUE
+1999,3,"Western Conference Finals","bo3 1-2 (98-09)",3,"Los Angeles Sparks",62,"Houston Comets",72,"Houston Comets",TRUE,TRUE
+1999,4,"Eastern Conference First Round","single game",1,"Charlotte Sting",60,"Detroit Shock",54,"Detroit Shock",TRUE,FALSE
+1999,5,"Western Conference First Round","single game",1,"Sacramento Monarchs",58,"Los Angeles Sparks",71,"Los Angeles Sparks",TRUE,TRUE
+2000,2,"Eastern Conference Finals","bo3 1-2 (98-09)",1,"New York Liberty",43,"Cleveland Rockers",56,"New York Liberty",FALSE,TRUE
+2000,2,"Eastern Conference Finals","bo3 1-2 (98-09)",2,"Cleveland Rockers",45,"New York Liberty",51,"New York Liberty",TRUE,TRUE
+2000,2,"Eastern Conference Finals","bo3 1-2 (98-09)",3,"Cleveland Rockers",67,"New York Liberty",81,"New York Liberty",TRUE,TRUE
+2000,3,"Western Conference Finals","bo3 1-2 (98-09)",1,"Los Angeles Sparks",56,"Houston Comets",77,"Los Angeles Sparks",FALSE,TRUE
+2000,3,"Western Conference Finals","bo3 1-2 (98-09)",2,"Houston Comets",74,"Los Angeles Sparks",69,"Los Angeles Sparks",TRUE,FALSE
+2000,4,"Eastern Conference Semifinals","bo3 1-2 (98-09)",1,"Cleveland Rockers",55,"Orlando Miracle",62,"Cleveland Rockers",FALSE,TRUE
+2000,4,"Eastern Conference Semifinals","bo3 1-2 (98-09)",2,"Orlando Miracle",54,"Cleveland Rockers",63,"Cleveland Rockers",TRUE,TRUE
+2000,4,"Eastern Conference Semifinals","bo3 1-2 (98-09)",3,"Orlando Miracle",43,"Cleveland Rockers",72,"Cleveland Rockers",TRUE,TRUE
+2000,5,"Eastern Conference Semifinals","bo3 1-2 (98-09)",1,"New York Liberty",72,"Washington Mystics",63,"New York Liberty",FALSE,FALSE
+2000,5,"Eastern Conference Semifinals","bo3 1-2 (98-09)",2,"Washington Mystics",57,"New York Liberty",78,"New York Liberty",TRUE,TRUE
+2000,6,"Western Conference Semifinals","bo3 1-2 (98-09)",1,"Houston Comets",72,"Sacramento Monarchs",64,"Houston Comets",FALSE,FALSE
+2000,6,"Western Conference Semifinals","bo3 1-2 (98-09)",2,"Sacramento Monarchs",70,"Houston Comets",75,"Houston Comets",TRUE,TRUE
+2000,7,"Western Conference Semifinals","bo3 1-2 (98-09)",1,"Los Angeles Sparks",86,"Phoenix Mercury",71,"Los Angeles Sparks",FALSE,FALSE
+2000,7,"Western Conference Semifinals","bo3 1-2 (98-09)",2,"Phoenix Mercury",76,"Los Angeles Sparks",101,"Los Angeles Sparks",TRUE,TRUE
+2001,2,"Eastern Conference Finals","bo3 1-2 (98-09)",1,"New York Liberty",61,"Charlotte Sting",57,"New York Liberty",FALSE,FALSE
+2001,2,"Eastern Conference Finals","bo3 1-2 (98-09)",2,"Charlotte Sting",62,"New York Liberty",53,"New York Liberty",TRUE,FALSE
+2001,2,"Eastern Conference Finals","bo3 1-2 (98-09)",3,"Charlotte Sting",48,"New York Liberty",44,"New York Liberty",TRUE,FALSE
+2001,3,"Western Conference Finals","bo3 1-2 (98-09)",1,"Los Angeles Sparks",74,"Sacramento Monarchs",73,"Los Angeles Sparks",FALSE,FALSE
+2001,3,"Western Conference Finals","bo3 1-2 (98-09)",2,"Sacramento Monarchs",80,"Los Angeles Sparks",60,"Los Angeles Sparks",TRUE,FALSE
+2001,3,"Western Conference Finals","bo3 1-2 (98-09)",3,"Sacramento Monarchs",62,"Los Angeles Sparks",93,"Los Angeles Sparks",TRUE,TRUE
+2001,4,"Eastern Conference Semifinals","bo3 1-2 (98-09)",1,"Cleveland Rockers",46,"Charlotte Sting",53,"Cleveland Rockers",FALSE,TRUE
+2001,4,"Eastern Conference Semifinals","bo3 1-2 (98-09)",2,"Charlotte Sting",51,"Cleveland Rockers",69,"Cleveland Rockers",TRUE,TRUE
+2001,4,"Eastern Conference Semifinals","bo3 1-2 (98-09)",3,"Charlotte Sting",72,"Cleveland Rockers",64,"Cleveland Rockers",TRUE,FALSE
+2001,5,"Eastern Conference Semifinals","bo3 1-2 (98-09)",1,"New York Liberty",62,"Miami Sol",46,"New York Liberty",FALSE,FALSE
+2001,5,"Eastern Conference Semifinals","bo3 1-2 (98-09)",2,"Miami Sol",53,"New York Liberty",50,"New York Liberty",TRUE,FALSE
+2001,5,"Eastern Conference Semifinals","bo3 1-2 (98-09)",3,"Miami Sol",61,"New York Liberty",72,"New York Liberty",TRUE,TRUE
+2001,6,"Western Conference Semifinals","bo3 1-2 (98-09)",1,"Los Angeles Sparks",64,"Houston Comets",59,"Los Angeles Sparks",FALSE,FALSE
+2001,6,"Western Conference Semifinals","bo3 1-2 (98-09)",2,"Houston Comets",58,"Los Angeles Sparks",70,"Los Angeles Sparks",TRUE,TRUE
+2001,7,"Western Conference Semifinals","bo3 1-2 (98-09)",1,"Sacramento Monarchs",89,"Utah Starzz",65,"Sacramento Monarchs",FALSE,FALSE
+2001,7,"Western Conference Semifinals","bo3 1-2 (98-09)",2,"Utah Starzz",66,"Sacramento Monarchs",71,"Sacramento Monarchs",TRUE,TRUE
+2002,2,"Eastern Conference Finals","bo3 1-2 (98-09)",1,"New York Liberty",74,"Washington Mystics",79,"New York Liberty",FALSE,TRUE
+2002,2,"Eastern Conference Finals","bo3 1-2 (98-09)",2,"Washington Mystics",79,"New York Liberty",96,"New York Liberty",TRUE,TRUE
+2002,2,"Eastern Conference Finals","bo3 1-2 (98-09)",3,"Washington Mystics",57,"New York Liberty",64,"New York Liberty",TRUE,TRUE
+2002,3,"Western Conference Finals","bo3 1-2 (98-09)",1,"Los Angeles Sparks",75,"Utah Starzz",67,"Los Angeles Sparks",FALSE,FALSE
+2002,3,"Western Conference Finals","bo3 1-2 (98-09)",2,"Utah Starzz",77,"Los Angeles Sparks",103,"Los Angeles Sparks",TRUE,TRUE
+2002,4,"Eastern Conference Semifinals","bo3 1-2 (98-09)",1,"New York Liberty",55,"Indiana Fever",73,"New York Liberty",FALSE,TRUE
+2002,4,"Eastern Conference Semifinals","bo3 1-2 (98-09)",2,"Indiana Fever",65,"New York Liberty",84,"New York Liberty",TRUE,TRUE
+2002,4,"Eastern Conference Semifinals","bo3 1-2 (98-09)",3,"Indiana Fever",60,"New York Liberty",75,"New York Liberty",TRUE,TRUE
+2002,5,"Eastern Conference Semifinals","bo3 1-2 (98-09)",1,"Charlotte Sting",62,"Washington Mystics",74,"Charlotte Sting",FALSE,TRUE
+2002,5,"Eastern Conference Semifinals","bo3 1-2 (98-09)",2,"Washington Mystics",62,"Charlotte Sting",59,"Charlotte Sting",TRUE,FALSE
+2002,6,"Western Conference Semifinals","bo3 1-2 (98-09)",1,"Los Angeles Sparks",78,"Seattle Storm",61,"Los Angeles Sparks",FALSE,FALSE
+2002,6,"Western Conference Semifinals","bo3 1-2 (98-09)",2,"Seattle Storm",59,"Los Angeles Sparks",69,"Los Angeles Sparks",TRUE,TRUE
+2002,7,"Western Conference Semifinals","bo3 1-2 (98-09)",1,"Houston Comets",59,"Utah Starzz",66,"Houston Comets",FALSE,TRUE
+2002,7,"Western Conference Semifinals","bo3 1-2 (98-09)",2,"Utah Starzz",77,"Houston Comets",83,"Houston Comets",TRUE,TRUE
+2002,7,"Western Conference Semifinals","bo3 1-2 (98-09)",3,"Utah Starzz",75,"Houston Comets",72,"Houston Comets",TRUE,FALSE
+2003,2,"Eastern Conference Finals","bo3 1-2 (98-09)",1,"Detroit Shock",73,"Connecticut Sun",63,"Detroit Shock",FALSE,FALSE
+2003,2,"Eastern Conference Finals","bo3 1-2 (98-09)",2,"Connecticut Sun",73,"Detroit Shock",79,"Detroit Shock",TRUE,TRUE
+2003,3,"Western Conference Finals","bo3 1-2 (98-09)",1,"Los Angeles Sparks",69,"Sacramento Monarchs",77,"Los Angeles Sparks",FALSE,TRUE
+2003,3,"Western Conference Finals","bo3 1-2 (98-09)",2,"Sacramento Monarchs",54,"Los Angeles Sparks",79,"Los Angeles Sparks",TRUE,TRUE
+2003,3,"Western Conference Finals","bo3 1-2 (98-09)",3,"Sacramento Monarchs",63,"Los Angeles Sparks",66,"Los Angeles Sparks",TRUE,TRUE
+2003,4,"Eastern Conference Semifinals","bo3 1-2 (98-09)",1,"Charlotte Sting",66,"Connecticut Sun",68,"Charlotte Sting",FALSE,TRUE
+2003,4,"Eastern Conference Semifinals","bo3 1-2 (98-09)",2,"Connecticut Sun",68,"Charlotte Sting",62,"Charlotte Sting",TRUE,FALSE
+2003,5,"Eastern Conference Semifinals","bo3 1-2 (98-09)",1,"Detroit Shock",76,"Cleveland Rockers",74,"Detroit Shock",FALSE,FALSE
+2003,5,"Eastern Conference Semifinals","bo3 1-2 (98-09)",2,"Cleveland Rockers",66,"Detroit Shock",59,"Detroit Shock",TRUE,FALSE
+2003,5,"Eastern Conference Semifinals","bo3 1-2 (98-09)",3,"Cleveland Rockers",63,"Detroit Shock",77,"Detroit Shock",TRUE,TRUE
+2003,6,"Western Conference Semifinals","bo3 1-2 (98-09)",1,"Los Angeles Sparks",72,"Minnesota Lynx",74,"Los Angeles Sparks",FALSE,TRUE
+2003,6,"Western Conference Semifinals","bo3 1-2 (98-09)",2,"Minnesota Lynx",69,"Los Angeles Sparks",80,"Los Angeles Sparks",TRUE,TRUE
+2003,6,"Western Conference Semifinals","bo3 1-2 (98-09)",3,"Minnesota Lynx",64,"Los Angeles Sparks",74,"Los Angeles Sparks",TRUE,TRUE
+2003,7,"Western Conference Semifinals","bo3 1-2 (98-09)",1,"Houston Comets",59,"Sacramento Monarchs",65,"Houston Comets",FALSE,TRUE
+2003,7,"Western Conference Semifinals","bo3 1-2 (98-09)",2,"Sacramento Monarchs",48,"Houston Comets",69,"Houston Comets",TRUE,TRUE
+2003,7,"Western Conference Semifinals","bo3 1-2 (98-09)",3,"Sacramento Monarchs",70,"Houston Comets",68,"Houston Comets",TRUE,FALSE
+2004,2,"Eastern Conference Finals","bo3 1-2 (98-09)",1,"Connecticut Sun",61,"New York Liberty",51,"Connecticut Sun",FALSE,FALSE
+2004,2,"Eastern Conference Finals","bo3 1-2 (98-09)",2,"New York Liberty",57,"Connecticut Sun",60,"Connecticut Sun",TRUE,TRUE
+2004,3,"Western Conference Finals","bo3 1-2 (98-09)",1,"Seattle Storm",72,"Sacramento Monarchs",74,"Seattle Storm",FALSE,TRUE
+2004,3,"Western Conference Finals","bo3 1-2 (98-09)",2,"Sacramento Monarchs",54,"Seattle Storm",66,"Seattle Storm",TRUE,TRUE
+2004,3,"Western Conference Finals","bo3 1-2 (98-09)",3,"Sacramento Monarchs",62,"Seattle Storm",82,"Seattle Storm",TRUE,TRUE
+2004,4,"Eastern Conference Semifinals","bo3 1-2 (98-09)",1,"Connecticut Sun",59,"Washington Mystics",67,"Connecticut Sun",FALSE,TRUE
+2004,4,"Eastern Conference Semifinals","bo3 1-2 (98-09)",2,"Washington Mystics",70,"Connecticut Sun",80,"Connecticut Sun",TRUE,TRUE
+2004,4,"Eastern Conference Semifinals","bo3 1-2 (98-09)",3,"Washington Mystics",56,"Connecticut Sun",76,"Connecticut Sun",TRUE,TRUE
+2004,5,"Eastern Conference Semifinals","bo3 1-2 (98-09)",1,"New York Liberty",75,"Detroit Shock",62,"New York Liberty",FALSE,FALSE
+2004,5,"Eastern Conference Semifinals","bo3 1-2 (98-09)",2,"Detroit Shock",76,"New York Liberty",66,"New York Liberty",TRUE,FALSE
+2004,5,"Eastern Conference Semifinals","bo3 1-2 (98-09)",3,"Detroit Shock",64,"New York Liberty",66,"New York Liberty",TRUE,TRUE
+2004,6,"Western Conference Semifinals","bo3 1-2 (98-09)",1,"Los Angeles Sparks",52,"Sacramento Monarchs",72,"Los Angeles Sparks",FALSE,TRUE
+2004,6,"Western Conference Semifinals","bo3 1-2 (98-09)",2,"Sacramento Monarchs",57,"Los Angeles Sparks",71,"Los Angeles Sparks",TRUE,TRUE
+2004,6,"Western Conference Semifinals","bo3 1-2 (98-09)",3,"Sacramento Monarchs",73,"Los Angeles Sparks",58,"Los Angeles Sparks",TRUE,FALSE
+2004,7,"Western Conference Semifinals","bo3 1-2 (98-09)",1,"Seattle Storm",70,"Minnesota Lynx",58,"Seattle Storm",FALSE,FALSE
+2004,7,"Western Conference Semifinals","bo3 1-2 (98-09)",2,"Minnesota Lynx",54,"Seattle Storm",64,"Seattle Storm",TRUE,TRUE
+2005,2,"Eastern Conference Finals","bo3 1-2 (98-09)",1,"Connecticut Sun",73,"Indiana Fever",68,"Connecticut Sun",FALSE,FALSE
+2005,2,"Eastern Conference Finals","bo3 1-2 (98-09)",2,"Indiana Fever",67,"Connecticut Sun",77,"Connecticut Sun",TRUE,TRUE
+2005,3,"Western Conference Finals","bo3 1-2 (98-09)",1,"Sacramento Monarchs",73,"Houston Comets",69,"Sacramento Monarchs",FALSE,FALSE
+2005,3,"Western Conference Finals","bo3 1-2 (98-09)",2,"Houston Comets",65,"Sacramento Monarchs",74,"Sacramento Monarchs",TRUE,TRUE
+2005,4,"Eastern Conference Semifinals","bo3 1-2 (98-09)",1,"Connecticut Sun",73,"Detroit Shock",62,"Connecticut Sun",FALSE,FALSE
+2005,4,"Eastern Conference Semifinals","bo3 1-2 (98-09)",2,"Detroit Shock",67,"Connecticut Sun",75,"Connecticut Sun",TRUE,TRUE
+2005,5,"Eastern Conference Semifinals","bo3 1-2 (98-09)",1,"Indiana Fever",63,"New York Liberty",51,"Indiana Fever",FALSE,FALSE
+2005,5,"Eastern Conference Semifinals","bo3 1-2 (98-09)",2,"New York Liberty",50,"Indiana Fever",58,"Indiana Fever",TRUE,TRUE
+2005,6,"Western Conference Semifinals","bo3 1-2 (98-09)",1,"Seattle Storm",75,"Houston Comets",67,"Seattle Storm",FALSE,FALSE
+2005,6,"Western Conference Semifinals","bo3 1-2 (98-09)",2,"Houston Comets",67,"Seattle Storm",64,"Seattle Storm",TRUE,FALSE
+2005,6,"Western Conference Semifinals","bo3 1-2 (98-09)",3,"Houston Comets",75,"Seattle Storm",58,"Seattle Storm",TRUE,FALSE
+2005,7,"Western Conference Semifinals","bo3 1-2 (98-09)",1,"Sacramento Monarchs",75,"Los Angeles Sparks",72,"Sacramento Monarchs",FALSE,FALSE
+2005,7,"Western Conference Semifinals","bo3 1-2 (98-09)",2,"Los Angeles Sparks",63,"Sacramento Monarchs",81,"Sacramento Monarchs",TRUE,TRUE
+2006,2,"Eastern Conference Finals","bo3 1-2 (98-09)",1,"Connecticut Sun",59,"Detroit Shock",70,"Connecticut Sun",FALSE,TRUE
+2006,2,"Eastern Conference Finals","bo3 1-2 (98-09)",2,"Detroit Shock",68,"Connecticut Sun",77,"Connecticut Sun",TRUE,TRUE
+2006,2,"Eastern Conference Finals","bo3 1-2 (98-09)",3,"Detroit Shock",79,"Connecticut Sun",55,"Connecticut Sun",TRUE,FALSE
+2006,3,"Western Conference Finals","bo3 1-2 (98-09)",1,"Los Angeles Sparks",61,"Sacramento Monarchs",64,"Los Angeles Sparks",FALSE,TRUE
+2006,3,"Western Conference Finals","bo3 1-2 (98-09)",2,"Sacramento Monarchs",72,"Los Angeles Sparks",58,"Los Angeles Sparks",TRUE,FALSE
+2006,4,"Eastern Conference Semifinals","bo3 1-2 (98-09)",1,"Connecticut Sun",76,"Washington Mystics",61,"Connecticut Sun",FALSE,FALSE
+2006,4,"Eastern Conference Semifinals","bo3 1-2 (98-09)",2,"Washington Mystics",65,"Connecticut Sun",68,"Connecticut Sun",TRUE,TRUE
+2006,5,"Eastern Conference Semifinals","bo3 1-2 (98-09)",1,"Detroit Shock",68,"Indiana Fever",56,"Detroit Shock",FALSE,FALSE
+2006,5,"Eastern Conference Semifinals","bo3 1-2 (98-09)",2,"Indiana Fever",83,"Detroit Shock",98,"Detroit Shock",TRUE,TRUE
+2006,6,"Western Conference Semifinals","bo3 1-2 (98-09)",1,"Los Angeles Sparks",72,"Seattle Storm",84,"Los Angeles Sparks",FALSE,TRUE
+2006,6,"Western Conference Semifinals","bo3 1-2 (98-09)",2,"Seattle Storm",70,"Los Angeles Sparks",78,"Los Angeles Sparks",TRUE,TRUE
+2006,6,"Western Conference Semifinals","bo3 1-2 (98-09)",3,"Seattle Storm",63,"Los Angeles Sparks",68,"Los Angeles Sparks",TRUE,TRUE
+2006,7,"Western Conference Semifinals","bo3 1-2 (98-09)",1,"Sacramento Monarchs",93,"Houston Comets",78,"Sacramento Monarchs",FALSE,FALSE
+2006,7,"Western Conference Semifinals","bo3 1-2 (98-09)",2,"Houston Comets",64,"Sacramento Monarchs",92,"Sacramento Monarchs",TRUE,TRUE
+2007,2,"Eastern Conference Finals","bo3 1-2 (98-09)",1,"Detroit Shock",65,"Indiana Fever",75,"Detroit Shock",FALSE,TRUE
+2007,2,"Eastern Conference Finals","bo3 1-2 (98-09)",2,"Indiana Fever",63,"Detroit Shock",77,"Detroit Shock",TRUE,TRUE
+2007,2,"Eastern Conference Finals","bo3 1-2 (98-09)",3,"Indiana Fever",65,"Detroit Shock",81,"Detroit Shock",TRUE,TRUE
+2007,3,"Western Conference Finals","bo3 1-2 (98-09)",1,"Phoenix Mercury",102,"San Antonio Silver Stars",100,"Phoenix Mercury",FALSE,FALSE
+2007,3,"Western Conference Finals","bo3 1-2 (98-09)",2,"San Antonio Silver Stars",92,"Phoenix Mercury",98,"Phoenix Mercury",TRUE,TRUE
+2007,4,"Eastern Conference Semifinals","bo3 1-2 (98-09)",1,"Detroit Shock",51,"New York Liberty",73,"Detroit Shock",FALSE,TRUE
+2007,4,"Eastern Conference Semifinals","bo3 1-2 (98-09)",2,"New York Liberty",73,"Detroit Shock",76,"Detroit Shock",TRUE,TRUE
+2007,4,"Eastern Conference Semifinals","bo3 1-2 (98-09)",3,"New York Liberty",70,"Detroit Shock",71,"Detroit Shock",TRUE,TRUE
+2007,5,"Eastern Conference Semifinals","bo3 1-2 (98-09)",1,"Indiana Fever",88,"Connecticut Sun",93,"Indiana Fever",FALSE,TRUE
+2007,5,"Eastern Conference Semifinals","bo3 1-2 (98-09)",2,"Connecticut Sun",59,"Indiana Fever",78,"Indiana Fever",TRUE,TRUE
+2007,5,"Eastern Conference Semifinals","bo3 1-2 (98-09)",3,"Connecticut Sun",88,"Indiana Fever",93,"Indiana Fever",TRUE,TRUE
+2007,6,"Western Conference Semifinals","bo3 1-2 (98-09)",1,"Phoenix Mercury",101,"Seattle Storm",84,"Phoenix Mercury",FALSE,FALSE
+2007,6,"Western Conference Semifinals","bo3 1-2 (98-09)",2,"Seattle Storm",89,"Phoenix Mercury",95,"Phoenix Mercury",TRUE,TRUE
+2007,7,"Western Conference Semifinals","bo3 1-2 (98-09)",1,"San Antonio Silver Stars",65,"Sacramento Monarchs",86,"San Antonio Silver Stars",FALSE,TRUE
+2007,7,"Western Conference Semifinals","bo3 1-2 (98-09)",2,"Sacramento Monarchs",61,"San Antonio Silver Stars",86,"San Antonio Silver Stars",TRUE,TRUE
+2007,7,"Western Conference Semifinals","bo3 1-2 (98-09)",3,"Sacramento Monarchs",78,"San Antonio Silver Stars",80,"San Antonio Silver Stars",TRUE,TRUE
+2008,2,"Eastern Conference Finals","bo3 1-2 (98-09)",1,"Detroit Shock",56,"New York Liberty",60,"Detroit Shock",FALSE,TRUE
+2008,2,"Eastern Conference Finals","bo3 1-2 (98-09)",2,"New York Liberty",55,"Detroit Shock",64,"Detroit Shock",TRUE,TRUE
+2008,2,"Eastern Conference Finals","bo3 1-2 (98-09)",3,"New York Liberty",73,"Detroit Shock",75,"Detroit Shock",TRUE,TRUE
+2008,3,"Western Conference Finals","bo3 1-2 (98-09)",1,"San Antonio Silver Stars",70,"Los Angeles Sparks",85,"San Antonio Silver Stars",FALSE,TRUE
+2008,3,"Western Conference Finals","bo3 1-2 (98-09)",2,"Los Angeles Sparks",66,"San Antonio Silver Stars",67,"San Antonio Silver Stars",TRUE,TRUE
+2008,3,"Western Conference Finals","bo3 1-2 (98-09)",3,"Los Angeles Sparks",72,"San Antonio Silver Stars",76,"San Antonio Silver Stars",TRUE,TRUE
+2008,4,"Eastern Conference Semifinals","bo3 1-2 (98-09)",1,"Detroit Shock",81,"Indiana Fever",72,"Detroit Shock",FALSE,FALSE
+2008,4,"Eastern Conference Semifinals","bo3 1-2 (98-09)",2,"Indiana Fever",89,"Detroit Shock",82,"Detroit Shock",TRUE,FALSE
+2008,4,"Eastern Conference Semifinals","bo3 1-2 (98-09)",3,"Indiana Fever",61,"Detroit Shock",80,"Detroit Shock",TRUE,TRUE
+2008,5,"Eastern Conference Semifinals","bo3 1-2 (98-09)",1,"Connecticut Sun",63,"New York Liberty",72,"Connecticut Sun",FALSE,TRUE
+2008,5,"Eastern Conference Semifinals","bo3 1-2 (98-09)",2,"New York Liberty",70,"Connecticut Sun",73,"Connecticut Sun",TRUE,TRUE
+2008,5,"Eastern Conference Semifinals","bo3 1-2 (98-09)",3,"New York Liberty",66,"Connecticut Sun",62,"Connecticut Sun",TRUE,FALSE
+2008,6,"Western Conference Semifinals","bo3 1-2 (98-09)",1,"Seattle Storm",69,"Los Angeles Sparks",77,"Seattle Storm",FALSE,TRUE
+2008,6,"Western Conference Semifinals","bo3 1-2 (98-09)",2,"Los Angeles Sparks",50,"Seattle Storm",64,"Seattle Storm",TRUE,TRUE
+2008,6,"Western Conference Semifinals","bo3 1-2 (98-09)",3,"Los Angeles Sparks",71,"Seattle Storm",64,"Seattle Storm",TRUE,FALSE
+2008,7,"Western Conference Semifinals","bo3 1-2 (98-09)",1,"San Antonio Silver Stars",85,"Sacramento Monarchs",78,"San Antonio Silver Stars",FALSE,FALSE
+2008,7,"Western Conference Semifinals","bo3 1-2 (98-09)",2,"Sacramento Monarchs",84,"San Antonio Silver Stars",67,"San Antonio Silver Stars",TRUE,FALSE
+2008,7,"Western Conference Semifinals","bo3 1-2 (98-09)",3,"Sacramento Monarchs",81,"San Antonio Silver Stars",86,"San Antonio Silver Stars",TRUE,TRUE
+2009,2,"Eastern Conference Finals","bo3 1-2 (98-09)",1,"Indiana Fever",56,"Detroit Shock",72,"Indiana Fever",FALSE,TRUE
+2009,2,"Eastern Conference Finals","bo3 1-2 (98-09)",2,"Detroit Shock",75,"Indiana Fever",79,"Indiana Fever",TRUE,TRUE
+2009,2,"Eastern Conference Finals","bo3 1-2 (98-09)",3,"Detroit Shock",67,"Indiana Fever",72,"Indiana Fever",TRUE,TRUE
+2009,3,"Western Conference Finals","bo3 1-2 (98-09)",1,"Phoenix Mercury",103,"Los Angeles Sparks",94,"Phoenix Mercury",FALSE,FALSE
+2009,3,"Western Conference Finals","bo3 1-2 (98-09)",2,"Los Angeles Sparks",87,"Phoenix Mercury",76,"Phoenix Mercury",TRUE,FALSE
+2009,3,"Western Conference Finals","bo3 1-2 (98-09)",3,"Los Angeles Sparks",74,"Phoenix Mercury",85,"Phoenix Mercury",TRUE,TRUE
+2009,4,"Eastern Conference Semifinals","bo3 1-2 (98-09)",1,"Atlanta Dream",89,"Detroit Shock",94,"Atlanta Dream",FALSE,TRUE
+2009,4,"Eastern Conference Semifinals","bo3 1-2 (98-09)",2,"Detroit Shock",94,"Atlanta Dream",79,"Atlanta Dream",TRUE,FALSE
+2009,5,"Eastern Conference Semifinals","bo3 1-2 (98-09)",1,"Indiana Fever",88,"Washington Mystics",79,"Indiana Fever",FALSE,FALSE
+2009,5,"Eastern Conference Semifinals","bo3 1-2 (98-09)",2,"Washington Mystics",74,"Indiana Fever",81,"Indiana Fever",TRUE,TRUE
+2009,6,"Western Conference Semifinals","bo3 1-2 (98-09)",1,"Seattle Storm",63,"Los Angeles Sparks",70,"Seattle Storm",FALSE,TRUE
+2009,6,"Western Conference Semifinals","bo3 1-2 (98-09)",2,"Los Angeles Sparks",74,"Seattle Storm",75,"Seattle Storm",TRUE,TRUE
+2009,6,"Western Conference Semifinals","bo3 1-2 (98-09)",3,"Los Angeles Sparks",75,"Seattle Storm",64,"Seattle Storm",TRUE,FALSE
+2009,7,"Western Conference Semifinals","bo3 1-2 (98-09)",1,"Phoenix Mercury",91,"San Antonio Silver Stars",92,"Phoenix Mercury",FALSE,TRUE
+2009,7,"Western Conference Semifinals","bo3 1-2 (98-09)",2,"San Antonio Silver Stars",78,"Phoenix Mercury",106,"Phoenix Mercury",TRUE,TRUE
+2009,7,"Western Conference Semifinals","bo3 1-2 (98-09)",3,"San Antonio Silver Stars",92,"Phoenix Mercury",100,"Phoenix Mercury",TRUE,TRUE
+2010,2,"Eastern Conference Finals","bo3 1-1-1 (10-15)",1,"Atlanta Dream",81,"New York Liberty",75,"New York Liberty",TRUE,FALSE
+2010,2,"Eastern Conference Finals","bo3 1-1-1 (10-15)",2,"New York Liberty",93,"Atlanta Dream",105,"New York Liberty",FALSE,TRUE
+2010,3,"Western Conference Finals","bo3 1-1-1 (10-15)",1,"Phoenix Mercury",74,"Seattle Storm",82,"Seattle Storm",TRUE,TRUE
+2010,3,"Western Conference Finals","bo3 1-1-1 (10-15)",2,"Seattle Storm",91,"Phoenix Mercury",88,"Seattle Storm",FALSE,FALSE
+2010,4,"Eastern Conference Semifinals","bo3 1-1-1 (10-15)",1,"Atlanta Dream",95,"Washington Mystics",90,"Washington Mystics",TRUE,FALSE
+2010,4,"Eastern Conference Semifinals","bo3 1-1-1 (10-15)",2,"Washington Mystics",77,"Atlanta Dream",101,"Washington Mystics",FALSE,TRUE
+2010,5,"Eastern Conference Semifinals","bo3 1-1-1 (10-15)",1,"Indiana Fever",73,"New York Liberty",85,"New York Liberty",TRUE,TRUE
+2010,5,"Eastern Conference Semifinals","bo3 1-1-1 (10-15)",2,"New York Liberty",67,"Indiana Fever",75,"New York Liberty",FALSE,TRUE
+2010,5,"Eastern Conference Semifinals","bo3 1-1-1 (10-15)",3,"Indiana Fever",74,"New York Liberty",77,"New York Liberty",TRUE,TRUE
+2010,6,"Western Conference Semifinals","bo3 1-1-1 (10-15)",1,"San Antonio Silver Stars",93,"Phoenix Mercury",106,"Phoenix Mercury",TRUE,TRUE
+2010,6,"Western Conference Semifinals","bo3 1-1-1 (10-15)",2,"Phoenix Mercury",92,"San Antonio Silver Stars",73,"Phoenix Mercury",FALSE,FALSE
+2010,7,"Western Conference Semifinals","bo3 1-1-1 (10-15)",1,"Los Angeles Sparks",66,"Seattle Storm",79,"Seattle Storm",TRUE,TRUE
+2010,7,"Western Conference Semifinals","bo3 1-1-1 (10-15)",2,"Seattle Storm",81,"Los Angeles Sparks",66,"Seattle Storm",FALSE,FALSE
+2011,2,"Eastern Conference Finals","bo3 1-1-1 (10-15)",1,"Atlanta Dream",74,"Indiana Fever",82,"Indiana Fever",TRUE,TRUE
+2011,2,"Eastern Conference Finals","bo3 1-1-1 (10-15)",2,"Indiana Fever",77,"Atlanta Dream",94,"Indiana Fever",FALSE,TRUE
+2011,2,"Eastern Conference Finals","bo3 1-1-1 (10-15)",3,"Atlanta Dream",83,"Indiana Fever",67,"Indiana Fever",TRUE,FALSE
+2011,3,"Western Conference Finals","bo3 1-1-1 (10-15)",1,"Phoenix Mercury",67,"Minnesota Lynx",95,"Minnesota Lynx",TRUE,TRUE
+2011,3,"Western Conference Finals","bo3 1-1-1 (10-15)",2,"Minnesota Lynx",103,"Phoenix Mercury",86,"Minnesota Lynx",FALSE,FALSE
+2011,4,"Eastern Conference Semifinals","bo3 1-1-1 (10-15)",1,"Atlanta Dream",89,"Connecticut Sun",84,"Connecticut Sun",TRUE,FALSE
+2011,4,"Eastern Conference Semifinals","bo3 1-1-1 (10-15)",2,"Connecticut Sun",64,"Atlanta Dream",69,"Connecticut Sun",FALSE,TRUE
+2011,5,"Eastern Conference Semifinals","bo3 1-1-1 (10-15)",1,"New York Liberty",72,"Indiana Fever",74,"Indiana Fever",TRUE,TRUE
+2011,5,"Eastern Conference Semifinals","bo3 1-1-1 (10-15)",2,"Indiana Fever",72,"New York Liberty",87,"Indiana Fever",FALSE,TRUE
+2011,5,"Eastern Conference Semifinals","bo3 1-1-1 (10-15)",3,"New York Liberty",62,"Indiana Fever",72,"Indiana Fever",TRUE,TRUE
+2011,6,"Western Conference Semifinals","bo3 1-1-1 (10-15)",1,"San Antonio Silver Stars",65,"Minnesota Lynx",66,"Minnesota Lynx",TRUE,TRUE
+2011,6,"Western Conference Semifinals","bo3 1-1-1 (10-15)",2,"Minnesota Lynx",75,"San Antonio Silver Stars",84,"Minnesota Lynx",FALSE,TRUE
+2011,6,"Western Conference Semifinals","bo3 1-1-1 (10-15)",3,"San Antonio Silver Stars",67,"Minnesota Lynx",85,"Minnesota Lynx",TRUE,TRUE
+2011,7,"Western Conference Semifinals","bo3 1-1-1 (10-15)",1,"Phoenix Mercury",61,"Seattle Storm",80,"Seattle Storm",TRUE,TRUE
+2011,7,"Western Conference Semifinals","bo3 1-1-1 (10-15)",2,"Seattle Storm",83,"Phoenix Mercury",92,"Seattle Storm",FALSE,TRUE
+2011,7,"Western Conference Semifinals","bo3 1-1-1 (10-15)",3,"Phoenix Mercury",77,"Seattle Storm",75,"Seattle Storm",TRUE,FALSE
+2012,2,"Eastern Conference Finals","bo3 1-1-1 (10-15)",1,"Indiana Fever",64,"Connecticut Sun",76,"Connecticut Sun",TRUE,TRUE
+2012,2,"Eastern Conference Finals","bo3 1-1-1 (10-15)",2,"Connecticut Sun",76,"Indiana Fever",78,"Connecticut Sun",FALSE,TRUE
+2012,2,"Eastern Conference Finals","bo3 1-1-1 (10-15)",3,"Indiana Fever",87,"Connecticut Sun",71,"Connecticut Sun",TRUE,FALSE
+2012,3,"Western Conference Finals","bo3 1-1-1 (10-15)",1,"Los Angeles Sparks",77,"Minnesota Lynx",94,"Minnesota Lynx",TRUE,TRUE
+2012,3,"Western Conference Finals","bo3 1-1-1 (10-15)",2,"Minnesota Lynx",80,"Los Angeles Sparks",79,"Minnesota Lynx",FALSE,FALSE
+2012,4,"Eastern Conference Semifinals","bo3 1-1-1 (10-15)",1,"New York Liberty",60,"Connecticut Sun",65,"Connecticut Sun",TRUE,TRUE
+2012,4,"Eastern Conference Semifinals","bo3 1-1-1 (10-15)",2,"Connecticut Sun",75,"New York Liberty",62,"Connecticut Sun",FALSE,FALSE
+2012,5,"Eastern Conference Semifinals","bo3 1-1-1 (10-15)",1,"Atlanta Dream",75,"Indiana Fever",66,"Indiana Fever",TRUE,FALSE
+2012,5,"Eastern Conference Semifinals","bo3 1-1-1 (10-15)",2,"Indiana Fever",103,"Atlanta Dream",88,"Indiana Fever",FALSE,FALSE
+2012,5,"Eastern Conference Semifinals","bo3 1-1-1 (10-15)",3,"Atlanta Dream",64,"Indiana Fever",75,"Indiana Fever",TRUE,TRUE
+2012,6,"Western Conference Semifinals","bo3 1-1-1 (10-15)",1,"San Antonio Silver Stars",86,"Los Angeles Sparks",93,"Los Angeles Sparks",TRUE,TRUE
+2012,6,"Western Conference Semifinals","bo3 1-1-1 (10-15)",2,"Los Angeles Sparks",101,"San Antonio Silver Stars",94,"Los Angeles Sparks",FALSE,FALSE
+2012,7,"Western Conference Semifinals","bo3 1-1-1 (10-15)",1,"Seattle Storm",70,"Minnesota Lynx",78,"Minnesota Lynx",TRUE,TRUE
+2012,7,"Western Conference Semifinals","bo3 1-1-1 (10-15)",2,"Minnesota Lynx",79,"Seattle Storm",86,"Minnesota Lynx",FALSE,TRUE
+2012,7,"Western Conference Semifinals","bo3 1-1-1 (10-15)",3,"Seattle Storm",72,"Minnesota Lynx",73,"Minnesota Lynx",TRUE,TRUE
+2013,2,"Eastern Conference Finals","bo3 1-1-1 (10-15)",1,"Indiana Fever",79,"Atlanta Dream",84,"Atlanta Dream",TRUE,TRUE
+2013,2,"Eastern Conference Finals","bo3 1-1-1 (10-15)",2,"Atlanta Dream",67,"Indiana Fever",53,"Atlanta Dream",FALSE,FALSE
+2013,3,"Western Conference Finals","bo3 1-1-1 (10-15)",1,"Phoenix Mercury",62,"Minnesota Lynx",85,"Minnesota Lynx",TRUE,TRUE
+2013,3,"Western Conference Finals","bo3 1-1-1 (10-15)",2,"Minnesota Lynx",72,"Phoenix Mercury",65,"Minnesota Lynx",FALSE,FALSE
+2013,4,"Eastern Conference Semifinals","bo3 1-1-1 (10-15)",1,"Washington Mystics",71,"Atlanta Dream",56,"Atlanta Dream",TRUE,FALSE
+2013,4,"Eastern Conference Semifinals","bo3 1-1-1 (10-15)",2,"Atlanta Dream",63,"Washington Mystics",45,"Atlanta Dream",FALSE,FALSE
+2013,4,"Eastern Conference Semifinals","bo3 1-1-1 (10-15)",3,"Washington Mystics",72,"Atlanta Dream",80,"Atlanta Dream",TRUE,TRUE
+2013,5,"Eastern Conference Semifinals","bo3 1-1-1 (10-15)",1,"Indiana Fever",85,"Chicago Sky",72,"Chicago Sky",TRUE,FALSE
+2013,5,"Eastern Conference Semifinals","bo3 1-1-1 (10-15)",2,"Chicago Sky",57,"Indiana Fever",79,"Chicago Sky",FALSE,TRUE
+2013,6,"Western Conference Semifinals","bo3 1-1-1 (10-15)",1,"Seattle Storm",64,"Minnesota Lynx",80,"Minnesota Lynx",TRUE,TRUE
+2013,6,"Western Conference Semifinals","bo3 1-1-1 (10-15)",2,"Minnesota Lynx",58,"Seattle Storm",55,"Minnesota Lynx",FALSE,FALSE
+2013,7,"Western Conference Semifinals","bo3 1-1-1 (10-15)",1,"Phoenix Mercury",86,"Los Angeles Sparks",75,"Los Angeles Sparks",TRUE,FALSE
+2013,7,"Western Conference Semifinals","bo3 1-1-1 (10-15)",2,"Los Angeles Sparks",82,"Phoenix Mercury",73,"Los Angeles Sparks",FALSE,FALSE
+2013,7,"Western Conference Semifinals","bo3 1-1-1 (10-15)",3,"Phoenix Mercury",78,"Los Angeles Sparks",77,"Los Angeles Sparks",TRUE,FALSE
+2014,2,"Eastern Conference Finals","bo3 1-1-1 (10-15)",1,"Chicago Sky",70,"Indiana Fever",77,"Indiana Fever",TRUE,TRUE
+2014,2,"Eastern Conference Finals","bo3 1-1-1 (10-15)",2,"Indiana Fever",84,"Chicago Sky",86,"Indiana Fever",FALSE,TRUE
+2014,2,"Eastern Conference Finals","bo3 1-1-1 (10-15)",3,"Chicago Sky",75,"Indiana Fever",62,"Indiana Fever",TRUE,FALSE
+2014,3,"Western Conference Finals","bo3 1-1-1 (10-15)",1,"Minnesota Lynx",71,"Phoenix Mercury",85,"Phoenix Mercury",TRUE,TRUE
+2014,3,"Western Conference Finals","bo3 1-1-1 (10-15)",2,"Phoenix Mercury",77,"Minnesota Lynx",82,"Phoenix Mercury",FALSE,TRUE
+2014,3,"Western Conference Finals","bo3 1-1-1 (10-15)",3,"Minnesota Lynx",78,"Phoenix Mercury",96,"Phoenix Mercury",TRUE,TRUE
+2014,4,"Eastern Conference Semifinals","bo3 1-1-1 (10-15)",1,"Chicago Sky",80,"Atlanta Dream",77,"Atlanta Dream",TRUE,FALSE
+2014,4,"Eastern Conference Semifinals","bo3 1-1-1 (10-15)",2,"Atlanta Dream",92,"Chicago Sky",83,"Atlanta Dream",FALSE,FALSE
+2014,4,"Eastern Conference Semifinals","bo3 1-1-1 (10-15)",3,"Chicago Sky",81,"Atlanta Dream",80,"Atlanta Dream",TRUE,FALSE
+2014,5,"Eastern Conference Semifinals","bo3 1-1-1 (10-15)",1,"Washington Mystics",73,"Indiana Fever",78,"Indiana Fever",TRUE,TRUE
+2014,5,"Eastern Conference Semifinals","bo3 1-1-1 (10-15)",2,"Indiana Fever",81,"Washington Mystics",76,"Indiana Fever",FALSE,FALSE
+2014,6,"Western Conference Semifinals","bo3 1-1-1 (10-15)",1,"San Antonio Stars",84,"Minnesota Lynx",88,"Minnesota Lynx",TRUE,TRUE
+2014,6,"Western Conference Semifinals","bo3 1-1-1 (10-15)",2,"Minnesota Lynx",94,"San Antonio Stars",89,"Minnesota Lynx",FALSE,FALSE
+2014,7,"Western Conference Semifinals","bo3 1-1-1 (10-15)",1,"Los Angeles Sparks",72,"Phoenix Mercury",75,"Phoenix Mercury",TRUE,TRUE
+2014,7,"Western Conference Semifinals","bo3 1-1-1 (10-15)",2,"Phoenix Mercury",93,"Los Angeles Sparks",68,"Phoenix Mercury",FALSE,FALSE
+2015,2,"Eastern Conference Finals","bo3 1-1-1 (10-15)",1,"Indiana Fever",67,"New York Liberty",84,"New York Liberty",TRUE,TRUE
+2015,2,"Eastern Conference Finals","bo3 1-1-1 (10-15)",2,"New York Liberty",64,"Indiana Fever",70,"New York Liberty",FALSE,TRUE
+2015,2,"Eastern Conference Finals","bo3 1-1-1 (10-15)",3,"Indiana Fever",66,"New York Liberty",51,"New York Liberty",TRUE,FALSE
+2015,3,"Western Conference Finals","bo3 1-1-1 (10-15)",1,"Phoenix Mercury",60,"Minnesota Lynx",67,"Minnesota Lynx",TRUE,TRUE
+2015,3,"Western Conference Finals","bo3 1-1-1 (10-15)",2,"Minnesota Lynx",72,"Phoenix Mercury",71,"Minnesota Lynx",FALSE,FALSE
+2015,4,"Eastern Conference Semifinals","bo3 1-1-1 (10-15)",1,"Indiana Fever",72,"Chicago Sky",77,"Chicago Sky",TRUE,TRUE
+2015,4,"Eastern Conference Semifinals","bo3 1-1-1 (10-15)",2,"Chicago Sky",82,"Indiana Fever",89,"Chicago Sky",FALSE,TRUE
+2015,4,"Eastern Conference Semifinals","bo3 1-1-1 (10-15)",3,"Indiana Fever",100,"Chicago Sky",89,"Chicago Sky",TRUE,FALSE
+2015,5,"Eastern Conference Semifinals","bo3 1-1-1 (10-15)",1,"Washington Mystics",86,"New York Liberty",83,"New York Liberty",TRUE,FALSE
+2015,5,"Eastern Conference Semifinals","bo3 1-1-1 (10-15)",2,"New York Liberty",86,"Washington Mystics",68,"New York Liberty",FALSE,FALSE
+2015,5,"Eastern Conference Semifinals","bo3 1-1-1 (10-15)",3,"Washington Mystics",74,"New York Liberty",79,"New York Liberty",TRUE,TRUE
+2015,6,"Western Conference Semifinals","bo3 1-1-1 (10-15)",1,"Los Angeles Sparks",65,"Minnesota Lynx",67,"Minnesota Lynx",TRUE,TRUE
+2015,6,"Western Conference Semifinals","bo3 1-1-1 (10-15)",2,"Minnesota Lynx",71,"Los Angeles Sparks",81,"Minnesota Lynx",FALSE,TRUE
+2015,6,"Western Conference Semifinals","bo3 1-1-1 (10-15)",3,"Los Angeles Sparks",80,"Minnesota Lynx",91,"Minnesota Lynx",TRUE,TRUE
+2015,7,"Western Conference Semifinals","bo3 1-1-1 (10-15)",1,"Tulsa Shock",55,"Phoenix Mercury",88,"Phoenix Mercury",TRUE,TRUE
+2015,7,"Western Conference Semifinals","bo3 1-1-1 (10-15)",2,"Phoenix Mercury",91,"Tulsa Shock",67,"Phoenix Mercury",FALSE,FALSE
+2016,1,"Finals","bo5",1,"Los Angeles Sparks",78,"Minnesota Lynx",76,"Minnesota Lynx",TRUE,FALSE
+2016,1,"Finals","bo5",2,"Los Angeles Sparks",60,"Minnesota Lynx",79,"Minnesota Lynx",TRUE,TRUE
+2016,1,"Finals","bo5",3,"Minnesota Lynx",75,"Los Angeles Sparks",92,"Minnesota Lynx",FALSE,TRUE
+2016,1,"Finals","bo5",4,"Minnesota Lynx",85,"Los Angeles Sparks",79,"Minnesota Lynx",FALSE,FALSE
+2016,1,"Finals","bo5",5,"Los Angeles Sparks",77,"Minnesota Lynx",76,"Minnesota Lynx",TRUE,FALSE
+2016,2,"Semifinals","bo5",1,"Chicago Sky",75,"Los Angeles Sparks",95,"Los Angeles Sparks",TRUE,TRUE
+2016,2,"Semifinals","bo5",2,"Chicago Sky",84,"Los Angeles Sparks",99,"Los Angeles Sparks",TRUE,TRUE
+2016,2,"Semifinals","bo5",3,"Los Angeles Sparks",66,"Chicago Sky",70,"Los Angeles Sparks",FALSE,TRUE
+2016,2,"Semifinals","bo5",4,"Los Angeles Sparks",95,"Chicago Sky",75,"Los Angeles Sparks",FALSE,FALSE
+2016,3,"Semifinals","bo5",1,"Phoenix Mercury",95,"Minnesota Lynx",113,"Minnesota Lynx",TRUE,TRUE
+2016,3,"Semifinals","bo5",2,"Phoenix Mercury",86,"Minnesota Lynx",96,"Minnesota Lynx",TRUE,TRUE
+2016,3,"Semifinals","bo5",3,"Minnesota Lynx",82,"Phoenix Mercury",67,"Minnesota Lynx",FALSE,FALSE
+2016,4,"Second Round","single game",1,"Atlanta Dream",98,"Chicago Sky",108,"Chicago Sky",TRUE,TRUE
+2016,5,"Second Round","single game",1,"Phoenix Mercury",101,"New York Liberty",94,"New York Liberty",TRUE,FALSE
+2016,6,"First Round","single game",1,"Seattle Storm",85,"Atlanta Dream",94,"Atlanta Dream",TRUE,TRUE
+2016,7,"First Round","single game",1,"Phoenix Mercury",89,"Indiana Fever",78,"Indiana Fever",TRUE,FALSE
+2017,1,"Finals","bo5",1,"Los Angeles Sparks",85,"Minnesota Lynx",84,"Minnesota Lynx",TRUE,FALSE
+2017,1,"Finals","bo5",2,"Los Angeles Sparks",68,"Minnesota Lynx",70,"Minnesota Lynx",TRUE,TRUE
+2017,1,"Finals","bo5",3,"Minnesota Lynx",64,"Los Angeles Sparks",75,"Minnesota Lynx",FALSE,TRUE
+2017,1,"Finals","bo5",4,"Minnesota Lynx",80,"Los Angeles Sparks",69,"Minnesota Lynx",FALSE,FALSE
+2017,1,"Finals","bo5",5,"Los Angeles Sparks",76,"Minnesota Lynx",85,"Minnesota Lynx",TRUE,TRUE
+2017,2,"Semifinals","bo5",1,"Phoenix Mercury",66,"Los Angeles Sparks",79,"Los Angeles Sparks",TRUE,TRUE
+2017,2,"Semifinals","bo5",2,"Phoenix Mercury",72,"Los Angeles Sparks",86,"Los Angeles Sparks",TRUE,TRUE
+2017,2,"Semifinals","bo5",3,"Los Angeles Sparks",89,"Phoenix Mercury",87,"Los Angeles Sparks",FALSE,FALSE
+2017,3,"Semifinals","bo5",1,"Washington Mystics",81,"Minnesota Lynx",101,"Minnesota Lynx",TRUE,TRUE
+2017,3,"Semifinals","bo5",2,"Washington Mystics",83,"Minnesota Lynx",93,"Minnesota Lynx",TRUE,TRUE
+2017,3,"Semifinals","bo5",3,"Minnesota Lynx",81,"Washington Mystics",70,"Minnesota Lynx",FALSE,FALSE
+2017,4,"Second Round","single game",1,"Phoenix Mercury",88,"Connecticut Sun",83,"Connecticut Sun",TRUE,FALSE
+2017,5,"Second Round","single game",1,"Washington Mystics",82,"New York Liberty",68,"New York Liberty",TRUE,FALSE
+2017,6,"First Round","single game",1,"Seattle Storm",69,"Phoenix Mercury",79,"Phoenix Mercury",TRUE,TRUE
+2017,7,"First Round","single game",1,"Dallas Wings",76,"Washington Mystics",86,"Washington Mystics",TRUE,TRUE
+2018,1,"Finals","bo5",1,"Washington Mystics",76,"Seattle Storm",89,"Seattle Storm",TRUE,TRUE
+2018,1,"Finals","bo5",2,"Washington Mystics",73,"Seattle Storm",75,"Seattle Storm",TRUE,TRUE
+2018,1,"Finals","bo5",3,"Seattle Storm",98,"Washington Mystics",82,"Seattle Storm",FALSE,FALSE
+2018,2,"Semifinals","bo5",1,"Phoenix Mercury",87,"Seattle Storm",91,"Seattle Storm",TRUE,TRUE
+2018,2,"Semifinals","bo5",2,"Phoenix Mercury",87,"Seattle Storm",91,"Seattle Storm",TRUE,TRUE
+2018,2,"Semifinals","bo5",3,"Seattle Storm",66,"Phoenix Mercury",86,"Seattle Storm",FALSE,TRUE
+2018,2,"Semifinals","bo5",4,"Seattle Storm",84,"Phoenix Mercury",86,"Seattle Storm",FALSE,TRUE
+2018,2,"Semifinals","bo5",5,"Phoenix Mercury",84,"Seattle Storm",94,"Seattle Storm",TRUE,TRUE
+2018,3,"Semifinals","bo5",1,"Washington Mystics",87,"Atlanta Dream",84,"Atlanta Dream",TRUE,FALSE
+2018,3,"Semifinals","bo5",2,"Washington Mystics",75,"Atlanta Dream",78,"Atlanta Dream",TRUE,TRUE
+2018,3,"Semifinals","bo5",3,"Atlanta Dream",81,"Washington Mystics",76,"Atlanta Dream",FALSE,FALSE
+2018,3,"Semifinals","bo5",4,"Atlanta Dream",76,"Washington Mystics",97,"Atlanta Dream",FALSE,TRUE
+2018,3,"Semifinals","bo5",5,"Washington Mystics",86,"Atlanta Dream",81,"Atlanta Dream",TRUE,FALSE
+2018,4,"Second Round","single game",1,"Phoenix Mercury",96,"Connecticut Sun",86,"Connecticut Sun",TRUE,FALSE
+2018,5,"Second Round","single game",1,"Los Angeles Sparks",64,"Washington Mystics",96,"Washington Mystics",TRUE,TRUE
+2018,6,"First Round","single game",1,"Minnesota Lynx",68,"Los Angeles Sparks",75,"Los Angeles Sparks",TRUE,TRUE
+2018,7,"First Round","single game",1,"Dallas Wings",83,"Phoenix Mercury",101,"Phoenix Mercury",TRUE,TRUE
+2019,1,"Finals","bo5",1,"Connecticut Sun",86,"Washington Mystics",95,"Washington Mystics",TRUE,TRUE
+2019,1,"Finals","bo5",2,"Connecticut Sun",99,"Washington Mystics",87,"Washington Mystics",TRUE,FALSE
+2019,1,"Finals","bo5",3,"Washington Mystics",94,"Connecticut Sun",81,"Washington Mystics",FALSE,FALSE
+2019,1,"Finals","bo5",4,"Washington Mystics",86,"Connecticut Sun",90,"Washington Mystics",FALSE,TRUE
+2019,1,"Finals","bo5",5,"Connecticut Sun",78,"Washington Mystics",89,"Washington Mystics",TRUE,TRUE
+2019,2,"Semifinals","bo5",1,"Los Angeles Sparks",75,"Connecticut Sun",84,"Connecticut Sun",TRUE,TRUE
+2019,2,"Semifinals","bo5",2,"Los Angeles Sparks",68,"Connecticut Sun",94,"Connecticut Sun",TRUE,TRUE
+2019,2,"Semifinals","bo5",3,"Connecticut Sun",78,"Los Angeles Sparks",56,"Connecticut Sun",FALSE,FALSE
+2019,3,"Semifinals","bo5",1,"Las Vegas Aces",95,"Washington Mystics",97,"Washington Mystics",TRUE,TRUE
+2019,3,"Semifinals","bo5",2,"Las Vegas Aces",91,"Washington Mystics",103,"Washington Mystics",TRUE,TRUE
+2019,3,"Semifinals","bo5",3,"Washington Mystics",75,"Las Vegas Aces",92,"Washington Mystics",FALSE,TRUE
+2019,3,"Semifinals","bo5",4,"Washington Mystics",94,"Las Vegas Aces",90,"Washington Mystics",FALSE,FALSE
+2019,4,"Second Round","single game",1,"Seattle Storm",69,"Los Angeles Sparks",92,"Los Angeles Sparks",TRUE,TRUE
+2019,5,"Second Round","single game",1,"Chicago Sky",92,"Las Vegas Aces",93,"Las Vegas Aces",TRUE,TRUE
+2019,6,"First Round","single game",1,"Phoenix Mercury",76,"Chicago Sky",105,"Chicago Sky",TRUE,TRUE
+2019,7,"First Round","single game",1,"Minnesota Lynx",74,"Seattle Storm",84,"Seattle Storm",TRUE,TRUE
+2020,1,"Finals","bo5",1,"Seattle Storm",93,"Las Vegas Aces",80,"Las Vegas Aces",TRUE,FALSE
+2020,1,"Finals","bo5",2,"Seattle Storm",104,"Las Vegas Aces",91,"Las Vegas Aces",TRUE,FALSE
+2020,1,"Finals","bo5",3,"Las Vegas Aces",59,"Seattle Storm",92,"Las Vegas Aces",FALSE,TRUE
+2020,2,"Semifinals","bo5",1,"Connecticut Sun",87,"Las Vegas Aces",62,"Las Vegas Aces",TRUE,FALSE
+2020,2,"Semifinals","bo5",2,"Connecticut Sun",75,"Las Vegas Aces",83,"Las Vegas Aces",TRUE,TRUE
+2020,2,"Semifinals","bo5",3,"Las Vegas Aces",68,"Connecticut Sun",77,"Las Vegas Aces",FALSE,TRUE
+2020,2,"Semifinals","bo5",4,"Las Vegas Aces",84,"Connecticut Sun",75,"Las Vegas Aces",FALSE,FALSE
+2020,2,"Semifinals","bo5",5,"Connecticut Sun",63,"Las Vegas Aces",66,"Las Vegas Aces",TRUE,TRUE
+2020,3,"Semifinals","bo5",1,"Minnesota Lynx",86,"Seattle Storm",88,"Seattle Storm",TRUE,TRUE
+2020,3,"Semifinals","bo5",2,"Minnesota Lynx",79,"Seattle Storm",89,"Seattle Storm",TRUE,TRUE
+2020,3,"Semifinals","bo5",3,"Seattle Storm",92,"Minnesota Lynx",71,"Seattle Storm",FALSE,FALSE
+2020,4,"Second Round","single game",1,"Connecticut Sun",73,"Los Angeles Sparks",59,"Los Angeles Sparks",TRUE,FALSE
+2020,5,"Second Round","single game",1,"Phoenix Mercury",79,"Minnesota Lynx",80,"Minnesota Lynx",TRUE,TRUE
+2020,6,"First Round","single game",1,"Connecticut Sun",94,"Chicago Sky",81,"Chicago Sky",TRUE,FALSE
+2020,7,"First Round","single game",1,"Washington Mystics",84,"Phoenix Mercury",85,"Phoenix Mercury",TRUE,TRUE
+2021,1,"Finals","bo5",1,"Chicago Sky",91,"Phoenix Mercury",77,"Phoenix Mercury",TRUE,FALSE
+2021,1,"Finals","bo5",2,"Chicago Sky",86,"Phoenix Mercury",91,"Phoenix Mercury",TRUE,TRUE
+2021,1,"Finals","bo5",3,"Phoenix Mercury",50,"Chicago Sky",86,"Phoenix Mercury",FALSE,TRUE
+2021,1,"Finals","bo5",4,"Phoenix Mercury",74,"Chicago Sky",80,"Phoenix Mercury",FALSE,TRUE
+2021,2,"Semifinals","bo5",1,"Chicago Sky",101,"Connecticut Sun",95,"Connecticut Sun",TRUE,FALSE
+2021,2,"Semifinals","bo5",2,"Chicago Sky",68,"Connecticut Sun",79,"Connecticut Sun",TRUE,TRUE
+2021,2,"Semifinals","bo5",3,"Connecticut Sun",83,"Chicago Sky",86,"Connecticut Sun",FALSE,TRUE
+2021,2,"Semifinals","bo5",4,"Connecticut Sun",69,"Chicago Sky",79,"Connecticut Sun",FALSE,TRUE
+2021,3,"Semifinals","bo5",1,"Phoenix Mercury",90,"Las Vegas Aces",96,"Las Vegas Aces",TRUE,TRUE
+2021,3,"Semifinals","bo5",2,"Phoenix Mercury",117,"Las Vegas Aces",91,"Las Vegas Aces",TRUE,FALSE
+2021,3,"Semifinals","bo5",3,"Las Vegas Aces",60,"Phoenix Mercury",87,"Las Vegas Aces",FALSE,TRUE
+2021,3,"Semifinals","bo5",4,"Las Vegas Aces",93,"Phoenix Mercury",76,"Las Vegas Aces",FALSE,FALSE
+2021,3,"Semifinals","bo5",5,"Phoenix Mercury",87,"Las Vegas Aces",84,"Las Vegas Aces",TRUE,FALSE
+2021,4,"Second Round","single game",1,"Chicago Sky",89,"Minnesota Lynx",76,"Minnesota Lynx",TRUE,FALSE
+2021,5,"Second Round","single game",1,"Phoenix Mercury",85,"Seattle Storm",80,"Seattle Storm",TRUE,FALSE
+2021,6,"First Round","single game",1,"Dallas Wings",64,"Chicago Sky",81,"Chicago Sky",TRUE,TRUE
+2021,7,"First Round","single game",1,"New York Liberty",82,"Phoenix Mercury",83,"Phoenix Mercury",TRUE,TRUE
+2022,1,"Finals","bo5",1,"Connecticut Sun",64,"Las Vegas Aces",67,"Las Vegas Aces",TRUE,TRUE
+2022,1,"Finals","bo5",2,"Connecticut Sun",71,"Las Vegas Aces",85,"Las Vegas Aces",TRUE,TRUE
+2022,1,"Finals","bo5",3,"Las Vegas Aces",76,"Connecticut Sun",105,"Las Vegas Aces",FALSE,TRUE
+2022,1,"Finals","bo5",4,"Las Vegas Aces",78,"Connecticut Sun",71,"Las Vegas Aces",FALSE,FALSE
+2022,2,"Semifinals","bo5",1,"Connecticut Sun",68,"Chicago Sky",63,"Chicago Sky",TRUE,FALSE
+2022,2,"Semifinals","bo5",2,"Connecticut Sun",77,"Chicago Sky",85,"Chicago Sky",TRUE,TRUE
+2022,2,"Semifinals","bo5",3,"Chicago Sky",76,"Connecticut Sun",72,"Chicago Sky",FALSE,FALSE
+2022,2,"Semifinals","bo5",4,"Chicago Sky",80,"Connecticut Sun",104,"Chicago Sky",FALSE,TRUE
+2022,2,"Semifinals","bo5",5,"Connecticut Sun",72,"Chicago Sky",63,"Chicago Sky",TRUE,FALSE
+2022,3,"Semifinals","bo5",1,"Seattle Storm",76,"Las Vegas Aces",73,"Las Vegas Aces",TRUE,FALSE
+2022,3,"Semifinals","bo5",2,"Seattle Storm",73,"Las Vegas Aces",78,"Las Vegas Aces",TRUE,TRUE
+2022,3,"Semifinals","bo5",3,"Las Vegas Aces",110,"Seattle Storm",98,"Las Vegas Aces",FALSE,FALSE
+2022,3,"Semifinals","bo5",4,"Las Vegas Aces",97,"Seattle Storm",92,"Las Vegas Aces",FALSE,FALSE
+2022,4,"First Round","bo3 2-1 (22-24)",1,"New York Liberty",98,"Chicago Sky",91,"Chicago Sky",TRUE,FALSE
+2022,4,"First Round","bo3 2-1 (22-24)",2,"New York Liberty",62,"Chicago Sky",100,"Chicago Sky",TRUE,TRUE
+2022,4,"First Round","bo3 2-1 (22-24)",3,"Chicago Sky",90,"New York Liberty",72,"Chicago Sky",FALSE,FALSE
+2022,5,"First Round","bo3 2-1 (22-24)",1,"Dallas Wings",68,"Connecticut Sun",93,"Connecticut Sun",TRUE,TRUE
+2022,5,"First Round","bo3 2-1 (22-24)",2,"Dallas Wings",89,"Connecticut Sun",79,"Connecticut Sun",TRUE,FALSE
+2022,5,"First Round","bo3 2-1 (22-24)",3,"Connecticut Sun",73,"Dallas Wings",58,"Connecticut Sun",FALSE,FALSE
+2022,6,"First Round","bo3 2-1 (22-24)",1,"Phoenix Mercury",63,"Las Vegas Aces",79,"Las Vegas Aces",TRUE,TRUE
+2022,6,"First Round","bo3 2-1 (22-24)",2,"Phoenix Mercury",80,"Las Vegas Aces",117,"Las Vegas Aces",TRUE,TRUE
+2022,7,"First Round","bo3 2-1 (22-24)",1,"Washington Mystics",83,"Seattle Storm",86,"Seattle Storm",TRUE,TRUE
+2022,7,"First Round","bo3 2-1 (22-24)",2,"Washington Mystics",84,"Seattle Storm",97,"Seattle Storm",TRUE,TRUE
+2023,1,"Finals","bo5",1,"New York Liberty",82,"Las Vegas Aces",99,"Las Vegas Aces",TRUE,TRUE
+2023,1,"Finals","bo5",2,"New York Liberty",76,"Las Vegas Aces",104,"Las Vegas Aces",TRUE,TRUE
+2023,1,"Finals","bo5",3,"Las Vegas Aces",73,"New York Liberty",87,"Las Vegas Aces",FALSE,TRUE
+2023,1,"Finals","bo5",4,"Las Vegas Aces",70,"New York Liberty",69,"Las Vegas Aces",FALSE,FALSE
+2023,2,"Semifinals","bo5",1,"Dallas Wings",83,"Las Vegas Aces",97,"Las Vegas Aces",TRUE,TRUE
+2023,2,"Semifinals","bo5",2,"Dallas Wings",84,"Las Vegas Aces",91,"Las Vegas Aces",TRUE,TRUE
+2023,2,"Semifinals","bo5",3,"Las Vegas Aces",64,"Dallas Wings",61,"Las Vegas Aces",FALSE,FALSE
+2023,3,"Semifinals","bo5",1,"Connecticut Sun",78,"New York Liberty",63,"New York Liberty",TRUE,FALSE
+2023,3,"Semifinals","bo5",2,"Connecticut Sun",77,"New York Liberty",84,"New York Liberty",TRUE,TRUE
+2023,3,"Semifinals","bo5",3,"New York Liberty",92,"Connecticut Sun",81,"New York Liberty",FALSE,FALSE
+2023,3,"Semifinals","bo5",4,"New York Liberty",87,"Connecticut Sun",84,"New York Liberty",FALSE,FALSE
+2023,4,"First Round","bo3 2-1 (22-24)",1,"Minnesota Lynx",60,"Connecticut Sun",90,"Connecticut Sun",TRUE,TRUE
+2023,4,"First Round","bo3 2-1 (22-24)",2,"Minnesota Lynx",82,"Connecticut Sun",75,"Connecticut Sun",TRUE,FALSE
+2023,4,"First Round","bo3 2-1 (22-24)",3,"Connecticut Sun",90,"Minnesota Lynx",75,"Connecticut Sun",FALSE,FALSE
+2023,5,"First Round","bo3 2-1 (22-24)",1,"Atlanta Dream",82,"Dallas Wings",94,"Dallas Wings",TRUE,TRUE
+2023,5,"First Round","bo3 2-1 (22-24)",2,"Atlanta Dream",74,"Dallas Wings",101,"Dallas Wings",TRUE,TRUE
+2023,6,"First Round","bo3 2-1 (22-24)",1,"Chicago Sky",59,"Las Vegas Aces",87,"Las Vegas Aces",TRUE,TRUE
+2023,6,"First Round","bo3 2-1 (22-24)",2,"Chicago Sky",70,"Las Vegas Aces",92,"Las Vegas Aces",TRUE,TRUE
+2023,7,"First Round","bo3 2-1 (22-24)",1,"Washington Mystics",75,"New York Liberty",90,"New York Liberty",TRUE,TRUE
+2023,7,"First Round","bo3 2-1 (22-24)",2,"Washington Mystics",85,"New York Liberty",90,"New York Liberty",TRUE,TRUE
+2024,1,"Finals","bo5",1,"Minnesota Lynx",95,"New York Liberty",93,"New York Liberty",TRUE,FALSE
+2024,1,"Finals","bo5",2,"Minnesota Lynx",66,"New York Liberty",80,"New York Liberty",TRUE,TRUE
+2024,1,"Finals","bo5",3,"New York Liberty",80,"Minnesota Lynx",77,"New York Liberty",FALSE,FALSE
+2024,1,"Finals","bo5",4,"New York Liberty",80,"Minnesota Lynx",82,"New York Liberty",FALSE,TRUE
+2024,1,"Finals","bo5",5,"Minnesota Lynx",62,"New York Liberty",67,"New York Liberty",TRUE,TRUE
+2024,2,"Semifinals","bo5",1,"Connecticut Sun",73,"Minnesota Lynx",70,"Minnesota Lynx",TRUE,FALSE
+2024,2,"Semifinals","bo5",2,"Connecticut Sun",70,"Minnesota Lynx",77,"Minnesota Lynx",TRUE,TRUE
+2024,2,"Semifinals","bo5",3,"Minnesota Lynx",90,"Connecticut Sun",81,"Minnesota Lynx",FALSE,FALSE
+2024,2,"Semifinals","bo5",4,"Minnesota Lynx",82,"Connecticut Sun",92,"Minnesota Lynx",FALSE,TRUE
+2024,2,"Semifinals","bo5",5,"Connecticut Sun",77,"Minnesota Lynx",88,"Minnesota Lynx",TRUE,TRUE
+2024,3,"Semifinals","bo5",1,"Las Vegas Aces",77,"New York Liberty",87,"New York Liberty",TRUE,TRUE
+2024,3,"Semifinals","bo5",2,"Las Vegas Aces",84,"New York Liberty",88,"New York Liberty",TRUE,TRUE
+2024,3,"Semifinals","bo5",3,"New York Liberty",81,"Las Vegas Aces",95,"New York Liberty",FALSE,TRUE
+2024,3,"Semifinals","bo5",4,"New York Liberty",76,"Las Vegas Aces",62,"New York Liberty",FALSE,FALSE
+2024,4,"First Round","bo3 2-1 (22-24)",1,"Indiana Fever",69,"Connecticut Sun",93,"Connecticut Sun",TRUE,TRUE
+2024,4,"First Round","bo3 2-1 (22-24)",2,"Indiana Fever",81,"Connecticut Sun",87,"Connecticut Sun",TRUE,TRUE
+2024,5,"First Round","bo3 2-1 (22-24)",1,"Seattle Storm",67,"Las Vegas Aces",78,"Las Vegas Aces",TRUE,TRUE
+2024,5,"First Round","bo3 2-1 (22-24)",2,"Seattle Storm",76,"Las Vegas Aces",83,"Las Vegas Aces",TRUE,TRUE
+2024,6,"First Round","bo3 2-1 (22-24)",1,"Phoenix Mercury",95,"Minnesota Lynx",102,"Minnesota Lynx",TRUE,TRUE
+2024,6,"First Round","bo3 2-1 (22-24)",2,"Phoenix Mercury",88,"Minnesota Lynx",101,"Minnesota Lynx",TRUE,TRUE
+2024,7,"First Round","bo3 2-1 (22-24)",1,"Atlanta Dream",69,"New York Liberty",83,"New York Liberty",TRUE,TRUE
+2024,7,"First Round","bo3 2-1 (22-24)",2,"Atlanta Dream",82,"New York Liberty",91,"New York Liberty",TRUE,TRUE
+2025,1,"Finals","bo7",1,"Phoenix Mercury",86,"Las Vegas Aces",89,"Las Vegas Aces",TRUE,TRUE
+2025,1,"Finals","bo7",2,"Phoenix Mercury",78,"Las Vegas Aces",91,"Las Vegas Aces",TRUE,TRUE
+2025,1,"Finals","bo7",3,"Las Vegas Aces",90,"Phoenix Mercury",88,"Las Vegas Aces",FALSE,FALSE
+2025,1,"Finals","bo7",4,"Las Vegas Aces",97,"Phoenix Mercury",86,"Las Vegas Aces",FALSE,FALSE
+2025,2,"Semifinals","bo5",1,"Indiana Fever",89,"Las Vegas Aces",73,"Las Vegas Aces",TRUE,FALSE
+2025,2,"Semifinals","bo5",2,"Indiana Fever",68,"Las Vegas Aces",90,"Las Vegas Aces",TRUE,TRUE
+2025,2,"Semifinals","bo5",3,"Las Vegas Aces",84,"Indiana Fever",72,"Las Vegas Aces",FALSE,FALSE
+2025,2,"Semifinals","bo5",4,"Las Vegas Aces",83,"Indiana Fever",90,"Las Vegas Aces",FALSE,TRUE
+2025,2,"Semifinals","bo5",5,"Indiana Fever",98,"Las Vegas Aces",107,"Las Vegas Aces",TRUE,TRUE
+2025,3,"Semifinals","bo5",1,"Phoenix Mercury",69,"Minnesota Lynx",82,"Minnesota Lynx",TRUE,TRUE
+2025,3,"Semifinals","bo5",2,"Phoenix Mercury",89,"Minnesota Lynx",83,"Minnesota Lynx",TRUE,FALSE
+2025,3,"Semifinals","bo5",3,"Minnesota Lynx",76,"Phoenix Mercury",84,"Minnesota Lynx",FALSE,TRUE
+2025,3,"Semifinals","bo5",4,"Minnesota Lynx",81,"Phoenix Mercury",86,"Minnesota Lynx",FALSE,TRUE
+2025,4,"First Round","bo3 1-1-1 (25)",1,"Indiana Fever",68,"Atlanta Dream",80,"Atlanta Dream",TRUE,TRUE
+2025,4,"First Round","bo3 1-1-1 (25)",2,"Atlanta Dream",60,"Indiana Fever",77,"Atlanta Dream",FALSE,TRUE
+2025,4,"First Round","bo3 1-1-1 (25)",3,"Indiana Fever",87,"Atlanta Dream",85,"Atlanta Dream",TRUE,FALSE
+2025,5,"First Round","bo3 1-1-1 (25)",1,"Seattle Storm",77,"Las Vegas Aces",102,"Las Vegas Aces",TRUE,TRUE
+2025,5,"First Round","bo3 1-1-1 (25)",2,"Las Vegas Aces",83,"Seattle Storm",86,"Las Vegas Aces",FALSE,TRUE
+2025,5,"First Round","bo3 1-1-1 (25)",3,"Seattle Storm",73,"Las Vegas Aces",74,"Las Vegas Aces",TRUE,TRUE
+2025,6,"First Round","bo3 1-1-1 (25)",1,"Golden State Valkyries",72,"Minnesota Lynx",101,"Minnesota Lynx",TRUE,TRUE
+2025,6,"First Round","bo3 1-1-1 (25)",2,"Minnesota Lynx",75,"Golden State Valkyries",74,"Minnesota Lynx",FALSE,FALSE
+2025,7,"First Round","bo3 1-1-1 (25)",1,"New York Liberty",76,"Phoenix Mercury",69,"Phoenix Mercury",TRUE,FALSE
+2025,7,"First Round","bo3 1-1-1 (25)",2,"Phoenix Mercury",86,"New York Liberty",60,"Phoenix Mercury",FALSE,FALSE
+2025,7,"First Round","bo3 1-1-1 (25)",3,"New York Liberty",73,"Phoenix Mercury",79,"Phoenix Mercury",TRUE,TRUE
