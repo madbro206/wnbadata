@@ -1,0 +1,175 @@
+yr,team,champ,phase,games,bench_min
+1997,Houston,1,reg,28,0.271
+1997,Houston,1,playoffs,1,0.172
+1997,Houston,1,finals,1,0.039
+1997,New York,0,reg,28,0.252
+1997,New York,0,playoffs,1,0.106
+1997,New York,0,finals,1,0.187
+1998,Houston,1,reg,30,0.237
+1998,Houston,1,playoffs,2,0.155
+1998,Houston,1,finals,3,0.164
+1998,Phoenix,0,reg,30,0.281
+1998,Phoenix,0,playoffs,3,0.225
+1998,Phoenix,0,finals,3,0.251
+1999,Houston,1,reg,32,0.24
+1999,Houston,1,playoffs,3,0.244
+1999,Houston,1,finals,3,0.238
+1999,New York,0,reg,32,0.282
+1999,New York,0,playoffs,3,0.199
+1999,New York,0,finals,3,0.222
+2000,Houston,1,reg,32,0.229
+2000,Houston,1,playoffs,4,0.17
+2000,Houston,1,finals,2,0.165
+2000,New York,0,reg,32,0.259
+2000,New York,0,playoffs,5,0.217
+2000,New York,0,finals,2,0.219
+2001,Los Angeles,1,reg,32,0.248
+2001,Los Angeles,1,playoffs,5,0.133
+2001,Los Angeles,1,finals,2,0.145
+2001,Charlotte,0,reg,32,0.282
+2001,Charlotte,0,playoffs,6,0.238
+2001,Charlotte,0,finals,2,0.246
+2002,Los Angeles,1,reg,32,0.236
+2002,Los Angeles,1,playoffs,4,0.267
+2002,Los Angeles,1,finals,2,0.075
+2002,New York,0,reg,32,0.215
+2002,New York,0,playoffs,6,0.218
+2002,New York,0,finals,2,0.185
+2003,Detroit,1,reg,34,0.262
+2003,Detroit,1,playoffs,5,0.234
+2003,Detroit,1,finals,3,0.185
+2003,Los Angeles,0,reg,34,0.198
+2003,Los Angeles,0,playoffs,6,0.109
+2003,Los Angeles,0,finals,3,0.051
+2004,Seattle,1,reg,34,0.248
+2004,Seattle,1,playoffs,5,0.253
+2004,Seattle,1,finals,3,0.245
+2004,Connecticut,0,reg,34,0.251
+2004,Connecticut,0,playoffs,5,0.26
+2004,Connecticut,0,finals,3,0.247
+2005,Sacramento,1,reg,34,0.333
+2005,Sacramento,1,playoffs,4,0.289
+2005,Sacramento,1,finals,4,0.369
+2005,Connecticut,0,reg,34,0.26
+2005,Connecticut,0,playoffs,4,0.219
+2005,Connecticut,0,finals,4,0.292
+2006,Detroit,1,reg,34,0.26
+2006,Detroit,1,playoffs,5,0.209
+2006,Detroit,1,finals,5,0.285
+2006,Sacramento,0,reg,34,0.426
+2006,Sacramento,0,playoffs,4,0.306
+2006,Sacramento,0,finals,5,0.342
+2007,Phoenix,1,reg,34,0.229
+2007,Phoenix,1,playoffs,4,0.169
+2007,Phoenix,1,finals,5,0.173
+2007,Detroit,0,reg,34,0.307
+2007,Detroit,0,playoffs,6,0.313
+2007,Detroit,0,finals,5,0.371
+2008,Detroit,1,reg,34,0.364
+2008,Detroit,1,playoffs,6,0.29
+2008,Detroit,1,finals,3,0.279
+2008,San Antonio,0,reg,34,0.265
+2008,San Antonio,0,playoffs,6,0.198
+2008,San Antonio,0,finals,3,0.16
+2009,Phoenix,1,reg,34,0.324
+2009,Phoenix,1,playoffs,6,0.352
+2009,Phoenix,1,finals,5,0.282
+2009,Indiana,0,reg,34,0.281
+2009,Indiana,0,playoffs,5,0.244
+2009,Indiana,0,finals,5,0.247
+2010,Seattle,1,reg,34,0.284
+2010,Seattle,1,playoffs,4,0.198
+2010,Seattle,1,finals,3,0.179
+2010,Atlanta,0,reg,34,0.318
+2010,Atlanta,0,playoffs,4,0.299
+2010,Atlanta,0,finals,3,0.256
+2011,Minnesota,1,reg,34,0.296
+2011,Minnesota,1,playoffs,5,0.244
+2011,Minnesota,1,finals,3,0.209
+2011,Atlanta,0,reg,34,0.309
+2011,Atlanta,0,playoffs,5,0.185
+2011,Atlanta,0,finals,3,0.225
+2012,Indiana,1,reg,34,0.36
+2012,Indiana,1,playoffs,6,0.241
+2012,Indiana,1,finals,4,0.135
+2012,Minnesota,0,reg,34,0.313
+2012,Minnesota,0,playoffs,5,0.212
+2012,Minnesota,0,finals,4,0.25
+2013,Minnesota,1,reg,34,0.289
+2013,Minnesota,1,playoffs,4,0.231
+2013,Minnesota,1,finals,3,0.263
+2013,Atlanta,0,reg,34,0.278
+2013,Atlanta,0,playoffs,5,0.2
+2013,Atlanta,0,finals,3,0.319
+2014,Phoenix,1,reg,34,0.275
+2014,Phoenix,1,playoffs,5,0.182
+2014,Phoenix,1,finals,3,0.226
+2014,Chicago,0,reg,34,0.314
+2014,Chicago,0,playoffs,6,0.209
+2014,Chicago,0,finals,3,0.312
+2015,Minnesota,1,reg,34,0.268
+2015,Minnesota,1,playoffs,5,0.193
+2015,Minnesota,1,finals,5,0.264
+2015,Indiana,0,reg,34,0.387
+2015,Indiana,0,playoffs,6,0.252
+2015,Indiana,0,finals,5,0.229
+2016,Los Angeles,1,reg,34,0.273
+2016,Los Angeles,1,playoffs,4,0.273
+2016,Los Angeles,1,finals,5,0.204
+2016,Minnesota,0,reg,34,0.337
+2016,Minnesota,0,playoffs,3,0.331
+2016,Minnesota,0,finals,5,0.225
+2017,Minnesota,1,reg,34,0.29
+2017,Minnesota,1,playoffs,3,0.283
+2017,Minnesota,1,finals,5,0.219
+2017,Los Angeles,0,reg,34,0.254
+2017,Los Angeles,0,playoffs,3,0.16
+2017,Los Angeles,0,finals,5,0.156
+2018,Seattle,1,reg,34,0.309
+2018,Seattle,1,playoffs,5,0.2
+2018,Seattle,1,finals,3,0.19
+2018,Washington,0,reg,33,0.316
+2018,Washington,0,playoffs,6,0.21
+2018,Washington,0,finals,3,0.337
+2019,Washington,1,reg,34,0.309
+2019,Washington,1,playoffs,4,0.257
+2019,Washington,1,finals,5,0.32
+2019,Connecticut,0,reg,34,0.296
+2019,Connecticut,0,playoffs,3,0.213
+2019,Connecticut,0,finals,5,0.14
+2020,Seattle,1,reg,22,0.334
+2020,Seattle,1,playoffs,3,0.289
+2020,Seattle,1,finals,3,0.284
+2020,Las Vegas,0,reg,22,0.451
+2020,Las Vegas,0,playoffs,5,0.272
+2020,Las Vegas,0,finals,3,0.308
+2021,Chicago,1,reg,32,0.311
+2021,Chicago,1,playoffs,6,0.235
+2021,Chicago,1,finals,4,0.247
+2021,Phoenix,0,reg,32,0.253
+2021,Phoenix,0,playoffs,7,0.233
+2021,Phoenix,0,finals,4,0.247
+2022,Las Vegas,1,reg,36,0.24
+2022,Las Vegas,1,playoffs,6,0.188
+2022,Las Vegas,1,finals,4,0.183
+2022,Connecticut,0,reg,36,0.291
+2022,Connecticut,0,playoffs,8,0.305
+2022,Connecticut,0,finals,4,0.211
+2023,Las Vegas,1,reg,40,0.255
+2023,Las Vegas,1,playoffs,5,0.175
+2023,Las Vegas,1,finals,4,0.147
+2023,New York,0,reg,40,0.254
+2023,New York,0,playoffs,6,0.107
+2023,New York,0,finals,4,0.162
+2024,New York,1,reg,40,0.265
+2024,New York,1,playoffs,6,0.236
+2024,New York,1,finals,5,0.158
+2024,Minnesota,0,reg,40,0.272
+2024,Minnesota,0,playoffs,7,0.192
+2024,Minnesota,0,finals,5,0.171
+2025,Las Vegas,1,reg,44,0.315
+2025,Las Vegas,1,playoffs,8,0.301
+2025,Las Vegas,1,finals,4,0.331
+2025,Phoenix,0,reg,44,0.368
+2025,Phoenix,0,playoffs,7,0.308
+2025,Phoenix,0,finals,4,0.3
