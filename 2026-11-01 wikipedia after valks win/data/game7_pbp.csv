@@ -1,0 +1,385 @@
+sequence_number,period_number,clock_display_value,wallclock,home_score,away_score,type_text,text
+4,1,10:00,2026-11-01T00:12:09Z,0,0,Jumpball,Angel Reese vs. Kiah Stokes (Naz Hillmon gains possession)
+7,1,9:48,2026-11-01T00:12:19Z,0,0,"Bad Pass
+Turnover","Jordin Canada bad pass
+turnover (Tiffany Hayes steals)"
+10,1,9:45,2026-11-01T00:12:22Z,0,0,Lost Ball Turnover,Tiffany Hayes lost ball turnover (Jordin Canada steals)
+12,1,9:44,2026-11-01T00:12:25Z,0,0,Driving Floating Jump Shot,Veronica Burton blocks Allisha Gray 's 4-foot driving floating jump shot
+14,1,9:41,2026-11-01T00:12:28Z,0,0,Defensive Rebound,Kaila Charles defensive rebound
+15,1,9:18,2026-11-01T00:12:49Z,2,0,Fade Away Jump Shot,Veronica Burton makes 10-foot fade away jump shot
+16,1,9:04,2026-11-01T00:13:05Z,2,0,Driving Layup Shot,Gabby Williams blocks Angel Reese 's 5-foot driving layup
+18,1,9:02,2026-11-01T00:13:07Z,2,0,Offensive Rebound,Dream offensive team rebound
+20,1,8:53,2026-11-01T00:13:32Z,2,0,Jump Shot,Rhyne Howard misses 27-foot three point jumper
+21,1,8:50,2026-11-01T00:13:35Z,2,0,Defensive Rebound,Gabby Williams defensive rebound
+22,1,8:27,2026-11-01T00:13:58Z,2,0,Jump Shot,Kiah Stokes misses 23-foot three point jumper
+23,1,8:23,2026-11-01T00:14:02Z,2,0,Defensive Rebound,Jordin Canada defensive rebound
+25,1,8:01,2026-11-01T00:14:46Z,2,0,Shot Clock Turnover,shot clock turnover 
+26,1,7:45,2026-11-01T00:15:10Z,2,0,Jump Shot,Gabby Williams misses 25-foot three point jumper
+27,1,7:42,2026-11-01T00:15:13Z,2,0,Defensive Rebound,Rhyne Howard defensive rebound
+28,1,7:36,2026-11-01T00:15:22Z,2,0,Personal Foul,Veronica Burton personal foul
+30,1,7:22,2026-11-01T00:16:04Z,2,0,Reverse Layup Shot,Kiah Stokes blocks Jordin Canada 's 4-foot reverse layup
+32,1,7:20,2026-11-01T00:16:06Z,2,0,Offensive Rebound,Dream offensive team rebound
+34,1,7:18,2026-11-01T00:16:21Z,2,0,Jump Shot,Rhyne Howard misses 23-foot three point jumper
+35,1,7:15,2026-11-01T00:16:24Z,2,0,Defensive Rebound,Veronica Burton defensive rebound
+36,1,7:01,2026-11-01T00:16:39Z,4,0,Driving Finger Roll Layup,Kaila Charles makes 5-foot two point shot (Gabby Williams assists)
+38,1,6:47,2026-11-01T00:16:52Z,4,0,Pullup Jump Shot,Jordin Canada misses 24-foot three point pullup jump shot
+39,1,6:44,2026-11-01T00:16:55Z,4,0,Defensive Rebound,Kiah Stokes defensive rebound
+41,1,6:29,2026-11-01T00:17:32Z,4,0,Personal Foul,Rhyne Howard personal foul
+43,1,6:18,2026-11-01T00:18:07Z,4,0,Turnaround Fade Away Jump Shot,Tiffany Hayes misses 7-foot two point shot
+44,1,6:17,2026-11-01T00:18:08Z,4,0,Offensive Rebound,Kiah Stokes offensive rebound
+45,1,6:15,2026-11-01T00:18:12Z,6,0,Layup Shot Putback,Kiah Stokes makes two point shot
+163,1,5:48,2026-11-01T00:18:39Z,6,0,"Bad Pass
+Turnover","Rhyne Howard bad pass
+turnover (Kaila Charles steals)"
+50,1,5:45,2026-11-01T00:18:42Z,6,0,Shooting Foul,Jordin Canada shooting foul
+52,1,5:45,2026-11-01T00:19:13Z,7,0,Free Throw - 1 of 2,Kaila Charles makes free throw 1 of 2
+53,1,5:45,2026-11-01T00:19:27Z,8,0,Free Throw - 2 of 2,Kaila Charles makes free throw 2 of 2
+54,1,5:43,2026-11-01T00:19:36Z,8,0,Full Timeout,Dream Full timeout
+55,1,5:35,2026-11-01T00:23:11Z,8,0,Driving Layup Shot,Gabby Williams blocks Allisha Gray 's 4-foot driving layup
+57,1,5:34,2026-11-01T00:23:12Z,8,0,Offensive Rebound,Dream offensive team rebound
+59,1,5:27,2026-11-01T00:23:34Z,8,0,Step Back Jump Shot,Allisha Gray misses 25-foot three point step back jumpshot
+60,1,5:25,2026-11-01T00:23:36Z,8,0,Defensive Rebound,Kaila Charles defensive rebound
+61,1,5:02,2026-11-01T00:23:59Z,8,0,Step Back Jump Shot,Veronica Burton misses 25-foot three point step back jumpshot
+62,1,5:00,2026-11-01T00:24:01Z,8,0,Defensive Rebound,Angel Reese defensive rebound
+63,1,4:46,2026-11-01T00:24:15Z,8,0,Jump Shot,Rhyne Howard misses 24-foot three point jumper
+64,1,4:43,2026-11-01T00:24:18Z,8,0,Offensive Rebound,Angel Reese offensive rebound
+65,1,4:41,2026-11-01T00:24:22Z,8,2,Layup Shot Putback,Angel Reese makes two point shot
+66,1,4:17,2026-11-01T00:24:47Z,8,2,Driving Floating Bank Jump Shot,Gabby Williams misses two point shot
+67,1,4:14,2026-11-01T00:24:50Z,8,2,Defensive Rebound,Allisha Gray defensive rebound
+68,1,4:07,2026-11-01T00:24:55Z,8,4,Running Layup Shot,Allisha Gray makes running layup
+69,1,3:49,2026-11-01T00:25:28Z,8,4,Substitution,DeWanna Bonner enters the game for Naz Hillmon
+71,1,3:49,2026-11-01T00:25:44Z,8,4,Jumpball,Angel Reese vs. Tiffany Hayes (Veronica Burton gains possession)
+74,1,3:43,2026-11-01T00:25:47Z,8,4,Jump Shot,Tiffany Hayes misses 27-foot three point jumper
+75,1,3:40,2026-11-01T00:25:50Z,8,4,Defensive Rebound,DeWanna Bonner defensive rebound
+76,1,3:30,2026-11-01T00:25:59Z,8,7,Jump Shot,Allisha Gray makes 27-foot three point jumper (DeWanna Bonner assists)
+78,1,3:12,2026-11-01T00:26:20Z,8,7,Personal Foul,Rhyne Howard personal foul
+80,1,3:12,2026-11-01T00:26:36Z,8,7,Substitution,Kayla Thornton enters the game for Kiah Stokes
+81,1,3:12,2026-11-01T00:26:36Z,8,7,Substitution,Naz Hillmon enters the game for Angel Reese
+84,1,3:02,2026-11-01T00:27:03Z,10,7,Cutting Layup Shot,Tiffany Hayes makes 3-foot layup (Veronica Burton assists)
+86,1,2:54,2026-11-01T00:27:12Z,10,9,Driving Finger Roll Layup,Jordin Canada makes 7-foot two point shot (Rhyne Howard assists)
+88,1,2:32,2026-11-01T00:27:33Z,10,9,Jump Shot,Kayla Thornton misses 23-foot three point jumper
+89,1,2:29,2026-11-01T00:27:36Z,10,9,Defensive Rebound,Rhyne Howard defensive rebound
+90,1,2:15,2026-11-01T00:27:49Z,10,11,Turnaround Fade Away Jump Shot,Rhyne Howard makes 10-foot two point shot (Naz Hillmon assists)
+91,1,1:50,2026-11-01T00:28:16Z,10,11,Driving Layup Shot,Kaila Charles misses driving layup
+93,1,1:48,2026-11-01T00:28:18Z,10,11,Defensive Rebound,Jordin Canada defensive rebound
+94,1,1:32,2026-11-01T00:28:35Z,10,11,Offensive Foul,DeWanna Bonner offensive foul
+96,1,1:32,2026-11-01T00:28:35Z,10,11,Offensive Foul Turnover,DeWanna Bonner offensive foul turnover
+97,1,1:32,2026-11-01T00:28:44Z,10,11,Substitution,Angel Reese enters the game for Jordin Canada
+98,1,1:32,2026-11-01T00:28:44Z,10,11,Substitution,Isobel Borlase enters the game for DeWanna Bonner
+101,1,1:32,2026-11-01T00:28:44Z,10,11,Substitution,Cecilia Zandalasini enters the game for Kaila Charles
+102,1,1:32,2026-11-01T00:28:44Z,10,11,Substitution,Kiah Stokes enters the game for Tiffany Hayes
+105,1,1:25,2026-11-01T00:29:15Z,10,11,Jump Shot,Gabby Williams misses 23-foot three point jumper
+106,1,1:23,2026-11-01T00:29:17Z,10,11,Offensive Rebound,Veronica Burton offensive rebound
+107,1,1:16,2026-11-01T00:29:24Z,10,11,Turnaround Jump Shot,Cecilia Zandalasini misses 10-foot turnaround jump shot
+108,1,1:14,2026-11-01T00:29:26Z,10,11,Defensive Rebound,Isobel Borlase defensive rebound
+109,1,1:09,2026-11-01T00:29:31Z,10,11,Jump Shot,Allisha Gray misses 27-foot three point jumper
+110,1,1:07,2026-11-01T00:29:33Z,10,11,Defensive Rebound,Golden State Valkyries defensive team rebound
+112,1,45.7,2026-11-01T00:30:08Z,12,11,Driving Floating Jump Shot,Veronica Burton makes 8-foot driving floating jump shot
+113,1,26.0,2026-11-01T00:30:32Z,12,11,Shooting Foul,Veronica Burton shooting foul
+116,1,26.0,2026-11-01T00:31:03Z,12,11,Substitution,Jordin Canada enters the game for Rhyne Howard
+117,1,26.0,2026-11-01T00:31:03Z,12,11,Substitution,DeWanna Bonner enters the game for Allisha Gray
+269,1,26.0,2026-11-01T00:30:47Z,12,12,Free Throw - 1 of 2,Naz Hillmon makes free throw 1 of 2
+270,1,26.0,2026-11-01T00:30:47Z,12,12,Lane Violation Turnover,Angel Reese lane violation turnover
+121,1,3.8,2026-11-01T00:32:03Z,14,11,Turnaround Jump Shot,Veronica Burton makes 10-foot turnaround jump shot
+122,1,0.6,2026-11-01T00:32:10Z,14,11,Pullup Jump Shot,Jordin Canada misses 43-foot three point pullup jump shot
+123,1,0.1,2026-11-01T00:32:10Z,14,11,Offensive Rebound,Dream offensive team rebound
+124,1,0.0,2026-11-01T00:32:14Z,14,11,End Period,End of the 1st Quarter
+128,2,10:00,2026-11-01T00:34:10Z,14,11,Substitution,Rhyne Howard enters the game for Isobel Borlase
+131,2,9:40,2026-11-01T00:36:20Z,14,11,Pullup Jump Shot,Cecilia Zandalasini misses 7-foot pullup jump shot
+132,2,9:38,2026-11-01T00:36:22Z,14,11,Defensive Rebound,Angel Reese defensive rebound
+133,2,9:31,2026-11-01T00:36:29Z,14,11,Jump Shot,DeWanna Bonner misses 26-foot three point jumper
+134,2,9:28,2026-11-01T00:36:32Z,14,11,Defensive Rebound,Kayla Thornton defensive rebound
+135,2,9:10,2026-11-01T00:36:53Z,14,11,Traveling,Cecilia Zandalasini traveling turnover
+136,2,9:01,2026-11-01T00:37:10Z,14,14,Jump Shot,Angel Reese makes 23-foot three point jumper (Rhyne Howard assists)
+138,2,8:45,2026-11-01T00:37:25Z,14,14,Step Back Jump Shot,Veronica Burton misses 24-foot three point step back jumpshot
+139,2,8:43,2026-11-01T00:37:27Z,14,14,Defensive Rebound,DeWanna Bonner defensive rebound
+140,2,8:35,2026-11-01T00:37:36Z,14,16,Driving Layup Shot,Jordin Canada makes driving layup
+141,2,8:12,2026-11-01T00:38:14Z,14,16,Substitution,Tiffany Hayes enters the game for Gabby Williams
+142,2,8:12,2026-11-01T00:38:14Z,14,16,Substitution,Kaila Charles enters the game for Cecilia Zandalasini
+145,2,8:12,2026-11-01T00:38:48Z,14,16,Jumpball,Rhyne Howard vs. Veronica Burton (Jordin Canada gains possession)
+148,2,8:10,2026-11-01T00:38:48Z,14,16,Lost Ball Turnover,Veronica Burton lost ball turnover (Rhyne Howard steals)
+150,2,8:07,2026-11-01T00:38:51Z,14,16,Cutting Layup Shot,Angel Reese misses layup
+151,2,8:05,2026-11-01T00:38:54Z,14,16,Defensive Rebound,Veronica Burton defensive rebound
+152,2,7:53,2026-11-01T00:39:05Z,14,16,Jump Shot,Veronica Burton misses 28-foot three point jumper
+153,2,7:50,2026-11-01T00:39:08Z,14,16,Offensive Rebound,Kayla Thornton offensive rebound
+154,2,7:40,2026-11-01T00:39:18Z,14,16,Turnaround Jump Shot,Veronica Burton misses 8-foot turnaround jump shot
+155,2,7:38,2026-11-01T00:39:20Z,14,16,Defensive Rebound,Angel Reese defensive rebound
+156,2,7:15,2026-11-01T00:39:44Z,14,16,Driving Floating Bank Jump Shot,Jordin Canada misses two point shot
+157,2,7:12,2026-11-01T00:39:47Z,14,16,Defensive Rebound,Kaila Charles defensive rebound
+158,2,6:54,2026-11-01T00:40:05Z,14,16,Driving Finger Roll Layup,Veronica Burton misses two point shot
+159,2,6:52,2026-11-01T00:40:07Z,14,16,Defensive Rebound,Angel Reese defensive rebound
+160,2,6:40,2026-11-01T00:40:17Z,14,18,Pullup Jump Shot,DeWanna Bonner makes 16-foot pullup jump shot (Jordin Canada assists)
+162,2,6:39,2026-11-01T00:40:27Z,14,18,Full Timeout,Golden State Valkyries Full timeout
+165,2,6:39,2026-11-01T00:42:45Z,14,18,Substitution,Kaitlyn Chen enters the game for Veronica Burton
+166,2,6:39,2026-11-01T00:42:45Z,14,18,Substitution,Allisha Gray enters the game for Jordin Canada
+169,2,6:29,2026-11-01T00:43:47Z,14,18,Driving Layup Shot,Tiffany Hayes misses driving layup
+170,2,6:27,2026-11-01T00:43:49Z,14,18,Defensive Rebound,Allisha Gray defensive rebound
+171,2,6:20,2026-11-01T00:43:55Z,14,18,Jump Shot,DeWanna Bonner misses 28-foot three point jumper
+172,2,6:18,2026-11-01T00:43:57Z,14,18,Defensive Rebound,Kiah Stokes defensive rebound
+173,2,5:56,2026-11-01T00:44:19Z,14,18,Step Back Jump Shot,Kaitlyn Chen misses 14-foot step back jumpshot
+174,2,5:53,2026-11-01T00:44:22Z,14,18,Defensive Rebound,Angel Reese defensive rebound
+175,2,5:53,2026-11-01T00:44:47Z,14,18,Substitution,Gabby Williams enters the game for Kayla Thornton
+177,2,5:53,2026-11-01T00:45:16Z,14,18,Jumpball,Angel Reese vs. Kiah Stokes (Kaitlyn Chen gains possession)
+180,2,5:49,2026-11-01T00:45:16Z,14,18,Lost Ball Turnover,Angel Reese lost ball turnover (Kiah Stokes steals)
+182,2,5:39,2026-11-01T00:45:31Z,14,18,Out of Bounds - Lost Ball Turnover,Kaila Charles out of bounds lost ball turnover
+183,2,5:35,2026-11-01T00:45:42Z,14,18,Jump Shot,DeWanna Bonner misses 29-foot three point jumper
+184,2,5:32,2026-11-01T00:45:47Z,14,18,Offensive Rebound,Allisha Gray offensive rebound
+185,2,5:32,2026-11-01T00:45:48Z,14,18,Personal Foul,Kaila Charles personal foul
+187,2,5:32,2026-11-01T00:45:55Z,14,18,Substitution,Kayla Thornton enters the game for Kiah Stokes
+188,2,5:32,2026-11-01T00:45:55Z,14,18,Substitution,Jordin Canada enters the game for DeWanna Bonner
+191,2,5:24,2026-11-01T00:46:33Z,14,20,Floating Jump Shot,Jordin Canada makes 6-foot floating jump shot (Allisha Gray assists)
+193,2,5:24,2026-11-01T00:46:41Z,14,20,Shooting Foul,Kaitlyn Chen shooting foul
+195,2,5:24,2026-11-01T00:46:55Z,14,20,Substitution,Veronica Burton enters the game for Kaitlyn Chen
+197,2,5:24,2026-11-01T00:47:04Z,14,20,Free Throw - 1 of 1,Jordin Canada misses free throw 1 of 1
+198,2,5:24,2026-11-01T00:47:07Z,14,20,Offensive Rebound,Dream offensive team rebound
+200,2,5:16,2026-11-01T00:47:32Z,14,20,Driving Floating Jump Shot,Rhyne Howard misses driving floating jump shot
+201,2,5:14,2026-11-01T00:47:34Z,14,20,Defensive Rebound,Veronica Burton defensive rebound
+202,2,4:55,2026-11-01T00:47:54Z,14,20,Shooting Foul,Allisha Gray shooting foul
+204,2,4:55,2026-11-01T00:48:25Z,15,20,Free Throw - 1 of 2,Veronica Burton makes free throw 1 of 2
+205,2,4:55,2026-11-01T00:48:40Z,16,20,Free Throw - 2 of 2,Veronica Burton makes free throw 2 of 2
+206,2,4:47,2026-11-01T00:48:52Z,16,20,Traveling,Angel Reese traveling turnover
+207,2,4:30,2026-11-01T00:49:19Z,16,20,Jump Shot,Veronica Burton misses 24-foot three point jumper
+208,2,4:27,2026-11-01T00:49:22Z,16,20,Offensive Rebound,Kaila Charles offensive rebound
+209,2,4:20,2026-11-01T00:49:31Z,16,20,Shooting Foul,Angel Reese shooting foul
+211,2,4:20,2026-11-01T00:50:03Z,16,20,Free Throw - 1 of 2,Tiffany Hayes misses free throw 1 of 2
+212,2,4:20,2026-11-01T00:50:03Z,16,20,Offensive Rebound,Golden State Valkyries offensive team rebound
+213,2,4:20,2026-11-01T00:50:04Z,16,20,Substitution,DeWanna Bonner enters the game for Angel Reese
+215,2,4:20,2026-11-01T00:50:22Z,17,20,Free Throw - 2 of 2,Tiffany Hayes makes free throw 2 of 2
+216,2,4:00,2026-11-01T00:50:45Z,17,20,Jump Shot,Rhyne Howard misses 24-foot three point jumper
+217,2,3:58,2026-11-01T00:50:47Z,17,20,Defensive Rebound,Golden State Valkyries defensive team rebound
+219,2,3:42,2026-11-01T00:51:15Z,17,20,Jump Shot,Veronica Burton misses 24-foot three point jumper
+220,2,3:39,2026-11-01T00:51:18Z,17,20,Defensive Rebound,Rhyne Howard defensive rebound
+221,2,3:23,2026-11-01T00:51:33Z,17,20,Jump Shot,Naz Hillmon misses 27-foot three point jumper
+222,2,3:20,2026-11-01T00:51:36Z,17,20,Offensive Rebound,Jordin Canada offensive rebound
+223,2,3:14,2026-11-01T00:51:45Z,17,22,Driving Finger Roll Layup,Jordin Canada makes 4-foot two point shot
+224,2,3:14,2026-11-01T00:51:49Z,17,22,Shooting Foul,Gabby Williams shooting foul
+226,2,3:14,2026-11-01T00:52:32Z,17,23,Free Throw - 1 of 1,Jordin Canada makes free throw 1 of 1
+227,2,3:00,2026-11-01T00:52:47Z,20,23,Jump Shot,Kayla Thornton makes 24-foot three point jumper (Tiffany Hayes assists)
+229,2,2:48,2026-11-01T00:53:03Z,20,23,Shooting Foul,Tiffany Hayes shooting foul
+231,2,2:48,2026-11-01T00:53:57Z,20,23,Official Timeout,Official timeout
+232,2,2:48,2026-11-01T00:54:02Z,20,23,Substitution,Angel Reese enters the game for DeWanna Bonner
+234,2,2:48,2026-11-01T00:56:59Z,20,23,Free Throw - 1 of 2,Jordin Canada misses free throw 1 of 2
+235,2,2:48,2026-11-01T00:56:59Z,20,23,Offensive Rebound,Dream offensive team rebound
+236,2,2:48,2026-11-01T00:57:12Z,20,24,Free Throw - 2 of 2,Jordin Canada makes free throw 2 of 2
+237,2,2:33,2026-11-01T00:57:32Z,20,24,Pullup Jump Shot,Angel Reese blocks Tiffany Hayes 's 7-foot pullup jump shot
+239,2,2:31,2026-11-01T00:57:34Z,20,24,Defensive Rebound,Angel Reese defensive rebound
+240,2,2:15,2026-11-01T00:57:48Z,20,24,Driving Floating Jump Shot,Allisha Gray misses driving floating jump shot
+241,2,2:13,2026-11-01T00:57:50Z,20,24,Defensive Rebound,Veronica Burton defensive rebound
+242,2,2:09,2026-11-01T00:57:57Z,20,24,Running Layup Shot,Veronica Burton misses running layup
+243,2,2:06,2026-11-01T00:58:00Z,20,24,Defensive Rebound,Rhyne Howard defensive rebound
+244,2,1:48,2026-11-01T00:58:17Z,20,24,Jump Shot,Jordin Canada misses 23-foot three point jumper
+245,2,1:46,2026-11-01T00:58:19Z,20,24,Offensive Rebound,Naz Hillmon offensive rebound
+246,2,1:45,2026-11-01T00:58:20Z,20,26,Layup Shot Putback,Naz Hillmon makes two point shot
+247,2,1:21,2026-11-01T00:58:42Z,22,26,Driving Layup Shot,Gabby Williams makes driving layup (Veronica Burton assists)
+249,2,1:01,2026-11-01T00:59:04Z,22,26,Driving Layup Shot,Kaila Charles blocks Rhyne Howard 's 6-foot driving layup
+251,2,59.7,2026-11-01T00:59:06Z,22,26,Offensive Rebound,Naz Hillmon offensive rebound
+252,2,56.1,2026-11-01T00:59:08Z,22,29,Jump Shot,Jordin Canada makes 26-foot three point jumper (Naz Hillmon assists)
+254,2,50.4,2026-11-01T00:59:20Z,24,29,Driving Floating Bank Jump Shot,Tiffany Hayes makes 3-foot two point shot (Veronica Burton assists)
+257,2,43.3,2026-11-01T00:59:32Z,24,29,Substitution,Isobel Borlase enters the game for Rhyne Howard
+259,2,34.3,2026-11-01T01:00:07Z,24,29,Cutting Layup Shot,Allisha Gray misses layup
+260,2,32.4,2026-11-01T01:00:09Z,24,29,Defensive Rebound,Kayla Thornton defensive rebound
+261,2,16.3,2026-11-01T01:00:26Z,24,29,Out of Bounds - Step Turnover,Kaila Charles steps out of bounds turnover
+262,2,16.3,2026-11-01T01:00:33Z,24,29,Substitution,Kiah Stokes enters the game for Tiffany Hayes
+264,2,1.4,2026-11-01T01:01:06Z,24,29,Pullup Jump Shot,Gabby Williams blocks Naz Hillmon 's 21-foot pullup jump shot
+266,2,0.3,2026-11-01T01:01:07Z,24,29,Defensive Rebound,Kiah Stokes defensive rebound
+267,2,0.0,2026-11-01T01:01:20Z,24,29,End Period,End of the 2nd Quarter
+271,3,10:00,2026-11-01T01:17:04Z,24,30,Substitution,Tiffany Hayes enters the game for Kayla Thornton
+272,3,10:00,2026-11-01T01:17:04Z,24,30,Substitution,Rhyne Howard enters the game for Isobel Borlase
+276,3,9:47,2026-11-01T01:18:23Z,26,30,Driving Finger Roll Layup,Gabby Williams makes 4-foot two point shot
+278,3,9:28,2026-11-01T01:18:41Z,26,33,Jump Shot,Jordin Canada makes 22-foot three point jumper
+280,3,9:04,2026-11-01T01:19:06Z,26,33,Jump Shot,Gabby Williams misses 28-foot three point jumper
+281,3,9:02,2026-11-01T01:19:08Z,26,33,Defensive Rebound,Angel Reese defensive rebound
+282,3,8:54,2026-11-01T01:19:16Z,26,33,Jump Shot,Angel Reese misses 24-foot three point jumper
+283,3,8:52,2026-11-01T01:19:18Z,26,33,Defensive Rebound,Kaila Charles defensive rebound
+284,3,8:32,2026-11-01T01:19:39Z,26,33,Driving Jump Shot Bank,Gabby Williams misses 6-foot two point shot
+285,3,8:30,2026-11-01T01:19:41Z,26,33,Defensive Rebound,Angel Reese defensive rebound
+286,3,8:28,2026-11-01T01:19:43Z,26,33,Lost Ball Turnover,Angel Reese lost ball turnover (Gabby Williams steals)
+289,3,8:14,2026-11-01T01:19:57Z,26,33,Driving Layup Shot,Tiffany Hayes misses driving layup
+290,3,8:12,2026-11-01T01:19:59Z,26,33,Defensive Rebound,Angel Reese defensive rebound
+291,3,8:03,2026-11-01T01:20:07Z,26,33,Jump Shot,Angel Reese misses 26-foot three point jumper
+292,3,8:02,2026-11-01T01:20:08Z,26,33,Defensive Rebound,Golden State Valkyries defensive team rebound
+293,3,8:02,2026-11-01T01:20:14Z,26,33,Loose Ball Foul,Naz Hillmon loose ball foul
+295,3,7:51,2026-11-01T01:20:44Z,26,33,Driving Layup Shot,Angel Reese blocks Gabby Williams 's 2-foot driving layup
+297,3,7:50,2026-11-01T01:20:45Z,26,33,Offensive Rebound,Kiah Stokes offensive rebound
+298,3,7:48,2026-11-01T01:20:48Z,28,33,Layup Shot Putback,Kiah Stokes makes two point shot
+299,3,7:37,2026-11-01T01:20:55Z,28,35,Jump Shot,Rhyne Howard makes 17-foot jumper (Naz Hillmon assists)
+301,3,7:12,2026-11-01T01:21:23Z,28,35,Jump Shot,Kiah Stokes misses 24-foot three point jumper
+302,3,7:11,2026-11-01T01:21:24Z,28,35,Offensive Rebound,Golden State Valkyries offensive team rebound
+303,3,7:11,2026-11-01T01:21:26Z,28,35,Shot Clock Turnover,shot clock turnover 
+304,3,7:11,2026-11-01T01:21:36Z,28,35,Full Timeout,Golden State Valkyries Full timeout
+305,3,7:11,2026-11-01T01:24:01Z,28,35,Substitution,DeWanna Bonner enters the game for Angel Reese
+307,3,6:56,2026-11-01T01:25:15Z,28,35,Finger Roll Layup,Kiah Stokes blocks Jordin Canada's finger roll layup
+309,3,6:53,2026-11-01T01:25:18Z,28,35,Defensive Rebound,Kiah Stokes defensive rebound
+311,3,6:38,2026-11-01T01:25:37Z,28,35,Substitution,Cecilia Zandalasini enters the game for Tiffany Hayes
+313,3,6:36,2026-11-01T01:26:04Z,28,35,Turnaround Fadeaway Bank Jump Shot,Gabby Williams misses two point shot
+314,3,6:33,2026-11-01T01:26:07Z,28,35,Defensive Rebound,Allisha Gray defensive rebound
+315,3,6:26,2026-11-01T01:26:13Z,28,35,Jump Shot,Allisha Gray misses 28-foot three point jumper
+316,3,6:24,2026-11-01T01:26:15Z,28,35,Defensive Rebound,Cecilia Zandalasini defensive rebound
+317,3,6:16,2026-11-01T01:26:25Z,28,35,Driving Floating Bank Jump Shot,Veronica Burton misses two point shot
+318,3,6:12,2026-11-01T01:26:29Z,28,35,Offensive Rebound,Veronica Burton offensive rebound
+319,3,6:12,2026-11-01T01:27:06Z,28,35,Jumpball,Rhyne Howard vs. Kiah Stokes (Allisha Gray gains possession)
+322,3,6:06,2026-11-01T01:27:06Z,28,35,"Bad Pass
+Turnover","Veronica Burton bad pass
+turnover (Rhyne Howard steals)"
+324,3,5:59,2026-11-01T01:27:14Z,28,37,Layup Shot,DeWanna Bonner makes layup (Allisha Gray assists)
+326,3,5:39,2026-11-01T01:27:34Z,30,37,Cutting Layup Shot,Kiah Stokes makes 3-foot layup (Gabby Williams assists)
+328,3,5:29,2026-11-01T01:27:45Z,30,37,Cutting Layup Shot,Naz Hillmon misses layup
+329,3,5:27,2026-11-01T01:27:47Z,30,37,Defensive Rebound,Veronica Burton defensive rebound
+330,3,5:09,2026-11-01T01:28:02Z,32,37,Turnaround Jump Shot,Cecilia Zandalasini makes 9-foot turnaround jump shot
+331,3,4:57,2026-11-01T01:28:15Z,32,37,Step Back Jump Shot,Rhyne Howard misses 16-foot step back jumpshot
+332,3,4:54,2026-11-01T01:28:18Z,32,37,Defensive Rebound,Kiah Stokes defensive rebound
+333,3,4:48,2026-11-01T01:28:25Z,32,37,Personal Foul,Rhyne Howard personal foul
+335,3,4:48,2026-11-01T01:28:33Z,32,37,Substitution,Kayla Thornton enters the game for Kiah Stokes
+336,3,4:48,2026-11-01T01:28:33Z,32,37,Substitution,Angel Reese enters the game for Allisha Gray
+339,3,4:34,2026-11-01T01:29:06Z,32,37,Jump Shot,Cecilia Zandalasini misses 24-foot three point jumper
+340,3,4:32,2026-11-01T01:29:08Z,32,37,Offensive Rebound,Kaila Charles offensive rebound
+341,3,4:30,2026-11-01T01:29:11Z,32,37,Lost Ball Turnover,Kaila Charles lost ball turnover (Rhyne Howard steals)
+343,3,4:24,2026-11-01T01:29:16Z,32,37,Lost Ball Turnover,Rhyne Howard lost ball turnover (Kayla Thornton steals)
+345,3,4:17,2026-11-01T01:29:24Z,34,37,Driving Layup Shot,Gabby Williams makes driving layup (Veronica Burton assists)
+347,3,4:17,2026-11-01T01:30:12Z,34,37,Full Timeout,Dream Full timeout
+348,3,3:54,2026-11-01T01:31:38Z,34,37,Driving Finger Roll Layup,DeWanna Bonner misses two point shot
+349,3,3:52,2026-11-01T01:31:40Z,34,37,Defensive Rebound,Kaila Charles defensive rebound
+350,3,3:31,2026-11-01T01:32:02Z,34,37,Driving Layup Shot,Cecilia Zandalasini misses driving layup
+351,3,3:30,2026-11-01T01:32:03Z,34,37,Offensive Rebound,Golden State Valkyries offensive team rebound
+352,3,3:30,2026-11-01T01:32:23Z,34,37,Shot Clock Turnover,shot clock turnover 
+353,3,3:30,2026-11-01T01:32:25Z,34,37,Substitution,Isobel Borlase enters the game for Naz Hillmon
+355,3,3:19,2026-11-01T01:32:41Z,34,40,Jump Shot,Isobel Borlase makes 26-foot three point jumper (Jordin Canada assists)
+357,3,2:58,2026-11-01T01:33:02Z,37,40,Step Back Jump Shot,Gabby Williams makes 25-foot three point step back jumpshot (Kaila Charles assists)
+359,3,2:43,2026-11-01T01:33:18Z,37,42,Driving Layup Shot,Isobel Borlase makes driving layup (Jordin Canada assists)
+361,3,2:22,2026-11-01T01:33:38Z,40,42,Jump Shot,Gabby Williams makes 26-foot three point jumper (Kayla Thornton assists)
+363,3,2:12,2026-11-01T01:33:51Z,40,44,Hook Shot,Angel Reese makes 3-foot hook shot (Jordin Canada assists)
+365,3,2:12,2026-11-01T01:33:53Z,40,44,Shooting Foul,Kayla Thornton shooting foul
+367,3,2:12,2026-11-01T01:34:09Z,40,44,Substitution,Kiah Stokes enters the game for Kayla Thornton
+368,3,2:12,2026-11-01T01:34:09Z,40,44,Substitution,Allisha Gray enters the game for DeWanna Bonner
+371,3,2:12,2026-11-01T01:34:29Z,40,44,Free Throw - 1 of 1,Angel Reese misses free throw 1 of 1
+372,3,2:10,2026-11-01T01:34:31Z,40,44,Defensive Rebound,Gabby Williams defensive rebound
+373,3,2:00,2026-11-01T01:34:38Z,43,44,Jump Shot,Gabby Williams makes 23-foot three point jumper (Kiah Stokes assists)
+375,3,1:36,2026-11-01T01:35:09Z,43,44,Personal Foul,Veronica Burton personal foul
+377,3,1:36,2026-11-01T01:35:26Z,43,44,Substitution,Tiffany Hayes enters the game for Cecilia Zandalasini
+379,3,1:25,2026-11-01T01:35:50Z,43,44,Turnaround Jump Shot,Allisha Gray misses 7-foot turnaround jump shot
+380,3,1:23,2026-11-01T01:35:52Z,43,44,Defensive Rebound,Kiah Stokes defensive rebound
+381,3,1:05,2026-11-01T01:36:09Z,45,44,Turnaround Jump Shot,Gabby Williams makes 10-foot turnaround jump shot
+383,3,53.9,2026-11-01T01:36:21Z,45,44,Lost Ball Turnover,Rhyne Howard lost ball turnover (Kaila Charles steals)
+385,3,46.9,2026-11-01T01:36:28Z,45,44,Step Back Jump Shot,Gabby Williams misses 25-foot three point step back jumpshot
+386,3,43.9,2026-11-01T01:36:31Z,45,44,Defensive Rebound,Allisha Gray defensive rebound
+387,3,21.4,2026-11-01T01:36:53Z,45,44,Pullup Jump Shot,Rhyne Howard misses 25-foot three point pullup jump shot
+388,3,20.8,2026-11-01T01:36:54Z,45,44,Defensive Rebound,Golden State Valkyries defensive team rebound
+390,3,0.6,2026-11-01T01:37:31Z,45,44,Driving Floating Jump Shot,Gabby Williams misses driving floating jump shot
+391,3,0.1,2026-11-01T01:37:31Z,45,44,Offensive Rebound,Golden State Valkyries offensive team rebound
+392,3,0.0,2026-11-01T01:37:35Z,45,44,End Period,End of the 3rd Quarter
+393,4,10:00,2026-11-01T01:39:24Z,45,44,Substitution,Naz Hillmon enters the game for Jordin Canada
+396,4,9:41,2026-11-01T01:41:30Z,45,44,Pullup Jump Shot,Rhyne Howard misses 16-foot pullup jump shot
+397,4,9:39,2026-11-01T01:41:32Z,45,44,Offensive Rebound,Rhyne Howard offensive rebound
+398,4,9:30,2026-11-01T01:41:42Z,45,44,Jump Shot,Rhyne Howard misses 27-foot three point jumper
+399,4,9:27,2026-11-01T01:41:45Z,45,44,Defensive Rebound,Gabby Williams defensive rebound
+400,4,9:12,2026-11-01T01:41:59Z,47,44,Pullup Jump Shot,Gabby Williams makes 19-foot pullup jump shot
+401,4,8:51,2026-11-01T01:42:21Z,47,44,Fade Away Jump Shot,Isobel Borlase misses 8-foot fade away jump shot
+402,4,8:49,2026-11-01T01:42:23Z,47,44,Offensive Rebound,Angel Reese offensive rebound
+403,4,8:46,2026-11-01T01:42:26Z,47,46,Driving Floating Bank Jump Shot,Allisha Gray makes 5-foot two point shot (Angel Reese assists)
+405,4,8:21,2026-11-01T01:42:52Z,47,46,Personal Foul,Angel Reese personal foul
+407,4,8:10,2026-11-01T01:43:31Z,49,46,Driving Layup Shot,Tiffany Hayes makes driving layup
+408,4,7:58,2026-11-01T01:43:43Z,49,46,Fade Away Bank Jump Shot,Allisha Gray misses 8-foot two point shot
+409,4,7:56,2026-11-01T01:43:45Z,49,46,Defensive Rebound,Kiah Stokes defensive rebound
+411,4,7:44,2026-11-01T01:43:59Z,49,46,Shooting Foul,Allisha Gray shooting foul
+413,4,7:44,2026-11-01T01:44:26Z,49,46,Full Timeout,Dream Full timeout
+414,4,7:44,2026-11-01T01:44:30Z,49,46,Coach's Challenge (Supported),(07:44) [Dream] COACH'S CHALLENGE (REPLAY SUPPORTS CALL) [Dream] charged with a timeout
+415,4,7:44,2026-11-01T01:47:05Z,49,46,Substitution,Jordin Canada enters the game for Angel Reese
+417,4,7:44,2026-11-01T01:48:16Z,50,46,Free Throw - 1 of 2,Gabby Williams makes free throw 1 of 2
+418,4,7:44,2026-11-01T01:48:27Z,51,46,Free Throw - 2 of 2,Gabby Williams makes free throw 2 of 2
+419,4,7:32,2026-11-01T01:48:39Z,51,46,Pullup Jump Shot,Isobel Borlase misses 9-foot pullup jump shot
+420,4,7:30,2026-11-01T01:48:41Z,51,46,Defensive Rebound,Kiah Stokes defensive rebound
+421,4,7:15,2026-11-01T01:48:56Z,51,46,Turnaround Jump Shot,Gabby Williams misses 10-foot turnaround jump shot
+422,4,7:13,2026-11-01T01:48:58Z,51,46,Defensive Rebound,Naz Hillmon defensive rebound
+423,4,7:01,2026-11-01T01:49:11Z,51,46,"Bad Pass
+Turnover","Jordin Canada bad pass
+turnover (Gabby Williams steals)"
+425,4,6:44,2026-11-01T01:49:28Z,51,46,Step Back Jump Shot,Veronica Burton misses 12-foot step back jumpshot
+426,4,6:42,2026-11-01T01:49:30Z,51,46,Defensive Rebound,Isobel Borlase defensive rebound
+427,4,6:36,2026-11-01T01:49:39Z,51,48,Driving Floating Bank Jump Shot,Isobel Borlase makes 4-foot two point shot
+428,4,6:36,2026-11-01T01:49:42Z,51,48,Shooting Foul,Tiffany Hayes shooting foul
+430,4,6:36,2026-11-01T01:50:07Z,51,49,Free Throw - 1 of 1,Isobel Borlase makes free throw 1 of 1
+431,4,6:12,2026-11-01T01:50:34Z,53,49,Turnaround Jump Shot,Tiffany Hayes makes 7-foot turnaround jump shot
+433,4,6:06,2026-11-01T01:50:50Z,53,49,Shooting Foul,Tiffany Hayes shooting foul
+435,4,6:06,2026-11-01T01:51:13Z,53,50,Free Throw - 1 of 2,Jordin Canada makes free throw 1 of 2
+436,4,6:06,2026-11-01T01:51:13Z,53,50,Substitution,Angel Reese enters the game for Rhyne Howard
+438,4,6:06,2026-11-01T01:51:34Z,53,51,Free Throw - 2 of 2,Jordin Canada makes free throw 2 of 2
+439,4,5:46,2026-11-01T01:51:55Z,53,51,Pullup Jump Shot,Gabby Williams misses 18-foot pullup jump shot
+440,4,5:43,2026-11-01T01:51:58Z,53,51,Offensive Rebound,Veronica Burton offensive rebound
+441,4,5:37,2026-11-01T01:52:05Z,53,51,Reverse Layup Shot,Kaila Charles misses 1-foot reverse layup
+442,4,5:37,2026-11-01T01:52:07Z,53,51,Defensive Rebound,Dream defensive team rebound
+444,4,5:14,2026-11-01T01:52:42Z,53,53,Fade Away Jump Shot,Allisha Gray makes 11-foot fade away jump shot
+445,4,4:52,2026-11-01T01:53:06Z,53,53,Personal Foul,Angel Reese personal foul
+447,4,4:52,2026-11-01T01:53:21Z,53,53,Substitution,Rhyne Howard enters the game for Naz Hillmon
+449,4,4:45,2026-11-01T01:53:44Z,53,53,Lost Ball Turnover,Tiffany Hayes lost ball turnover (Jordin Canada steals)
+451,4,4:39,2026-11-01T01:53:50Z,53,53,Running Jump Shot,Isobel Borlase misses 24-foot running jump shot
+452,4,4:36,2026-11-01T01:53:53Z,53,53,Defensive Rebound,Veronica Burton defensive rebound
+453,4,4:30,2026-11-01T01:53:59Z,53,53,Jump Shot,Kaila Charles misses 23-foot three point jumper
+454,4,4:26,2026-11-01T01:54:03Z,53,53,Defensive Rebound,Allisha Gray defensive rebound
+458,4,4:09,2026-11-01T01:54:51Z,53,53,Full Timeout,Golden State Valkyries Full timeout
+459,4,4:09,2026-11-01T01:54:55Z,53,53,Coach's Challenge (Overturned),(04:09) [Golden State Valkyries] COACH'S CHALLENGE (CALL OVERTURNED) [Golden State Valkyries] retain their timeout
+461,4,4:09,2026-11-01T01:57:17Z,53,53,Driving Layup Shot,Gabby Williams blocks Jordin Canada 's 3-foot driving layup
+463,4,4:09,2026-11-01T01:57:17Z,53,53,Offensive Rebound,Dream offensive team rebound
+460,4,4:04,2026-11-01T01:59:39Z,53,53,Shot Clock Turnover,shot clock turnover 
+464,4,3:42,2026-11-01T02:00:14Z,53,53,Jump Shot,Kiah Stokes misses 20-foot jumper
+466,4,3:41,2026-11-01T02:00:20Z,53,53,Offensive Rebound,Golden State Valkyries offensive team rebound
+467,4,3:41,2026-11-01T02:00:25Z,53,53,Loose Ball Foul,Isobel Borlase loose ball foul
+469,4,3:34,2026-11-01T02:01:00Z,53,53,Shooting Foul,Rhyne Howard shooting foul
+471,4,3:34,2026-11-01T02:01:29Z,54,53,Free Throw - 1 of 2,Gabby Williams makes free throw 1 of 2
+472,4,3:34,2026-11-01T02:01:47Z,55,53,Free Throw - 2 of 2,Gabby Williams makes free throw 2 of 2
+473,4,3:15,2026-11-01T02:02:13Z,55,53,Shooting Foul,Tiffany Hayes shooting foul
+475,4,3:15,2026-11-01T02:02:46Z,55,54,Free Throw - 1 of 2,Allisha Gray makes free throw 1 of 2
+476,4,3:15,2026-11-01T02:03:03Z,55,55,Free Throw - 2 of 2,Allisha Gray makes free throw 2 of 2
+477,4,3:02,2026-11-01T02:03:20Z,57,55,Driving Layup Shot,Gabby Williams makes driving layup
+478,4,2:47,2026-11-01T02:03:37Z,57,55,Personal Foul,Gabby Williams personal foul
+480,4,2:41,2026-11-01T02:04:08Z,57,57,Driving Layup Shot,Rhyne Howard makes driving layup (Jordin Canada assists)
+482,4,2:18,2026-11-01T02:04:30Z,60,57,Jump Shot,Gabby Williams makes 31-foot three point jumper (Veronica Burton assists)
+484,4,2:10,2026-11-01T02:04:56Z,60,57,Full Timeout,Dream Full timeout
+485,4,2:02,2026-11-01T02:07:03Z,60,57,Cutting Layup Shot,Allisha Gray misses layup
+486,4,2:00,2026-11-01T02:07:05Z,60,57,Defensive Rebound,Kiah Stokes defensive rebound
+487,4,1:40,2026-11-01T02:07:26Z,60,57,Shooting Foul,Jordin Canada shooting foul
+489,4,1:40,2026-11-01T02:08:20Z,61,57,Free Throw - 1 of 2,Gabby Williams makes free throw 1 of 2
+490,4,1:40,2026-11-01T02:08:19Z,61,57,Substitution,Naz Hillmon enters the game for Isobel Borlase
+492,4,1:40,2026-11-01T02:08:20Z,62,57,Free Throw - 2 of 2,Gabby Williams makes free throw 2 of 2
+493,4,1:32,2026-11-01T02:08:50Z,62,57,Jump Shot,Naz Hillmon misses 24-foot three point jumper
+494,4,1:29,2026-11-01T02:08:53Z,62,57,Defensive Rebound,Veronica Burton defensive rebound
+495,4,1:08,2026-11-01T02:09:13Z,62,57,Floating Jump Shot,Gabby Williams misses 10-foot floating jump shot
+496,4,1:06,2026-11-01T02:09:15Z,62,57,Offensive Rebound,Kiah Stokes offensive rebound
+497,4,55.1,2026-11-01T02:09:29Z,62,57,Driving Layup Shot,Gabby Williams misses driving layup
+498,4,54.8,2026-11-01T02:09:29Z,62,57,Offensive Rebound,Kiah Stokes offensive rebound
+499,4,53.8,2026-11-01T02:09:31Z,64,57,Tip Shot,Kiah Stokes makes tip shot
+500,4,53.8,2026-11-01T02:09:37Z,64,57,Full Timeout,Dream Full timeout
+501,4,49.2,2026-11-01T02:11:30Z,64,57,Jump Shot,Allisha Gray misses 24-foot three point jumper
+502,4,47.6,2026-11-01T02:11:32Z,64,57,Offensive Rebound,Rhyne Howard offensive rebound
+503,4,41.2,2026-11-01T02:11:38Z,64,57,Pullup Jump Shot,Jordin Canada misses 24-foot three point pullup jump shot
+504,4,38.3,2026-11-01T02:11:41Z,64,57,Offensive Rebound,Jordin Canada offensive rebound
+505,4,34.2,2026-11-01T02:11:44Z,64,60,Jump Shot,Allisha Gray makes 23-foot three point jumper (Rhyne Howard assists)
+507,4,34.2,2026-11-01T02:11:58Z,64,60,Full Timeout,Golden State Valkyries Full timeout
+508,4,34.2,2026-11-01T02:13:20Z,64,60,Substitution,Kayla Thornton enters the game for Kiah Stokes
+510,4,29.0,2026-11-01T02:14:06Z,64,60,Personal Take Foul,Naz Hillmon personal take foul
+512,4,29.0,2026-11-01T02:14:32Z,65,60,Free Throw - 1 of 2,Tiffany Hayes makes free throw 1 of 2
+513,4,29.0,2026-11-01T02:14:33Z,65,60,Substitution,Kiah Stokes enters the game for Kayla Thornton
+515,4,29.0,2026-11-01T02:14:32Z,66,60,Free Throw - 2 of 2,Tiffany Hayes makes free throw 2 of 2
+516,4,20.6,2026-11-01T02:15:02Z,66,60,Pullup Jump Shot,Jordin Canada misses 24-foot three point pullup jump shot
+517,4,18.6,2026-11-01T02:15:04Z,66,60,Offensive Rebound,Angel Reese offensive rebound
+518,4,18.6,2026-11-01T02:15:08Z,66,60,Shooting Foul,Kaila Charles shooting foul
+520,4,18.6,2026-11-01T02:15:32Z,66,60,Free Throw - 1 of 2,Angel Reese misses free throw 1 of 2
+521,4,18.6,2026-11-01T02:15:32Z,66,60,Offensive Rebound,Dream offensive team rebound
+522,4,18.6,2026-11-01T02:15:45Z,66,61,Free Throw - 2 of 2,Angel Reese makes free throw 2 of 2
+523,4,18.6,2026-11-01T02:15:49Z,66,61,Full Timeout,Golden State Valkyries Full timeout
+524,4,18.6,2026-11-01T02:17:19Z,66,61,Substitution,Kayla Thornton enters the game for Kiah Stokes
+526,4,15.8,2026-11-01T02:17:54Z,66,61,"Bad Pass
+Turnover","Gabby Williams bad pass
+turnover (Angel Reese steals)"
+528,4,10.5,2026-11-01T02:18:01Z,66,61,Personal Foul,Tiffany Hayes personal foul
+530,4,10.5,2026-11-01T02:19:04Z,66,62,Free Throw - 1 of 2,Allisha Gray makes free throw 1 of 2
+531,4,10.5,2026-11-01T02:19:06Z,66,62,Substitution,Kiah Stokes enters the game for Tiffany Hayes
+533,4,10.5,2026-11-01T02:19:04Z,66,63,Free Throw - 2 of 2,Allisha Gray makes free throw 2 of 2
+534,4,8.3,2026-11-01T02:20:10Z,66,63,Jumpball,Allisha Gray vs. Gabby Williams (Veronica Burton gains possession)
+538,4,5.1,2026-11-01T02:20:15Z,66,63,Personal Take Foul,Naz Hillmon personal take foul
+540,4,5.1,2026-11-01T02:20:53Z,67,63,Free Throw - 1 of 2,Veronica Burton makes free throw 1 of 2
+541,4,5.1,2026-11-01T02:21:11Z,68,63,Free Throw - 2 of 2,Veronica Burton makes free throw 2 of 2
+542,4,5.1,2026-11-01T02:21:18Z,68,63,Reset Timeout,Dream Reset Timeout
+543,4,1.2,2026-11-01T02:21:40Z,68,63,Jump Shot,Rhyne Howard misses 29-foot three point jumper
+544,4,0.1,2026-11-01T02:21:41Z,68,63,Defensive Rebound,Golden State Valkyries defensive team rebound
+545,4,0.0,2026-11-01T02:21:46Z,68,63,End Period,End of the 4th Quarter
+546,4,0.0,2026-11-01T02:21:50Z,68,63,End Game,End of Game
