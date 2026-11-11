@@ -1,4 +1,4 @@
-# charts for the unrivaled elam ending video with the realest (2026-11-9)
+# charts for the unrivaled elam ending video with the realest (2026-11-10)
 #
 # wnba numbers are hardcoded from wnba_endings.R (wehoop pbp, regular season + playoffs, all-star excluded).
 #   - fouling: a non-shooting foul by the trailing team in the last 60 seconds of the final period, 2018-2026

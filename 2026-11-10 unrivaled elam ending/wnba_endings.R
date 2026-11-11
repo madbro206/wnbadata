@@ -1,4 +1,4 @@
-# how WNBA games end (2026-11-9 unrivaled elam ending video)
+# how WNBA games end (2026-11-10 unrivaled elam ending video)
 #
 # every number the charts use for the WNBA side comes from this script:
 #   1. game winners: only 11 of 353 2026 games were won on a shot in the last 5 seconds
