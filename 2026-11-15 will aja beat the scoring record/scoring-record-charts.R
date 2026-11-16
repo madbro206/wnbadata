@@ -5,7 +5,8 @@
 # run the script and the 2 tables in the list at the bottom print (t_when_simple and t_on_pace).
 # the other t_ tables feed a chart. type any name in the console to see it.
 #
-# data (all from her hoop stats, regular season only, exported 11/13-14/2026):
+# data (all from her hoop stats, regular season only, exported 11/13-14/2026). the data/ folder isn't
+# included in this repo, so the code is here to read but won't run without it:
 #   data/career-points.csv   every WNBA player's career games played and points, 1997-2026
 #   data/season-points.csv   the same by season, plus birthdate (missing for a lot of older players, see below)
 #   data/game-logs-5000.csv  game-by-game points for everyone with 5,000+ career points
