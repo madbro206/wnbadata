@@ -14,7 +14,7 @@
 
 library(tidyverse)
 
-data_dir <- "~/Desktop/claude/ncaa_nonconf_sos/data"
+data_dir <- "~/Desktop/wnbadata/2026-11-19 uconn non conference schedule/data"
 games        <- read_csv(file.path(data_dir, "games.csv"), col_types = cols(game_time = col_character()), show_col_types = FALSE)
 team_seasons <- read_csv(file.path(data_dir, "team_seasons.csv"), show_col_types = FALSE)
 ratings      <- read_csv(file.path(data_dir, "ratings.csv"), show_col_types = FALSE)
